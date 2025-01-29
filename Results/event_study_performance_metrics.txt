@@ -1,0 +1,6 @@
+R-squared: 1.0
+Adj. R-squared: nan
+AIC: -231.20123475102068
+BIC: -233.65605730654113
+F-statistic: -3.2145261448861814e+33
+Prob (F-statistic): 1.0

@@ -1,0 +1,38 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         Treated_Medals   R-squared:                       0.426
+Model:                            OLS   Adj. R-squared:                  0.425
+Method:                 Least Squares   F-statistic:                     3.840
+Date:                Mon, 27 Jan 2025   Prob (F-statistic):              0.107
+Time:                        09:44:47   Log-Likelihood:                -10789.
+No. Observations:                5364   AIC:                         2.159e+04
+Df Residuals:                    5356   BIC:                         2.165e+04
+Df Model:                           7                                         
+Covariance Type:              cluster                                         
+===============================================================================================
+                                  coef    std err          z      P>|z|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------
+Intercept                       1.2488      0.435      2.871      0.004       0.396       2.101
+C(Case)[T.CHN_Athletics]       10.4228      5.438      1.917      0.055      -0.235      21.081
+C(Case)[T.CHN_Volleyball]       2.4242      1.057      2.294      0.022       0.353       4.495
+C(Case)[T.ROU_Gymnastics]       2.3724      1.188      1.997      0.046       0.043       4.701
+C(Case)[T.SGP_Table Tennis]    -0.9383      0.166     -5.666      0.000      -1.263      -0.614
+C(Case)[T.USA_Gymnastics]       2.2794      1.296      1.759      0.079      -0.260       4.819
+C(Case)[T.USA_Volleyball]       2.6610      0.671      3.964      0.000       1.345       3.977
+Post_neg_2                  -6.879e-17   9.98e-18     -6.896      0.000   -8.83e-17   -4.92e-17
+Post_neg_1                           0          0        nan        nan           0           0
+Post_0                          1.2488      0.435      2.871      0.004       0.396       2.101
+Post_1                               0          0        nan        nan           0           0
+Post_2                               0          0        nan        nan           0           0
+Control_Medals                 -0.0711      0.035     -2.027      0.043      -0.140      -0.002
+==============================================================================
+Omnibus:                     6057.664   Durbin-Watson:                   0.070
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           760468.801
+Skew:                           5.726   Prob(JB):                         0.00
+Kurtosis:                      60.196   Cond. No.                          inf
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The smallest eigenvalue is      0. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.

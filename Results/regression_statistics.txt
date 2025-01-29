@@ -1,0 +1,9 @@
+Regression Statistics:
+R-squared: 1.0
+Adjusted R-squared: 1.0
+F-statistic: 2.0679587013091485e+27, F p-value: 0.0
+Residual Sum of Squares (SSR): 1.471365792485872e-22
+Degrees of Freedom (Model): 7.0
+Degrees of Freedom (Residual): 115.0
+Number of Observations: 123.0
+Number of Variables (k): 11

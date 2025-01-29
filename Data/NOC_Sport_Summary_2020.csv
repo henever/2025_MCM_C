@@ -1,0 +1,2179 @@
+NOC,Sport,Gold_Medals,Silver_Medals,Bronze_Medals,Total_Medals,Participation_Count,TOPSIS_Score_Sum,Host
+AFG,Athletics,0,0,0,0,2,0,0
+AFG,Shooting,0,0,0,0,1,0,0
+AFG,Swimming,0,0,0,0,1,0,0
+AFG,Taekwondo,0,0,0,0,1,0,0
+AHO,Athletics,0,0,0,0,3,0.002248224,0
+AHO,Shooting,0,0,0,0,1,0,0
+ALB,Artistic Gymnastics,0,0,0,0,1,0,0
+ALB,Athletics,0,0,0,0,4,0.002250696,0
+ALB,Judo,0,0,0,0,2,0,0
+ALB,Shooting,0,0,0,0,2,0.001125348,0
+ALB,Swimming,0,0,0,0,3,0.001125348,0
+ALB,Weightlifting,0,0,0,0,5,0.003373572,0
+ALG,Athletics,0,0,0,0,7,0.002250696,0
+ALG,Boxing,0,0,0,0,15,0.007865081,0
+ALG,Canoe Sprint,0,0,0,0,2,0.001125348,0
+ALG,Cycling Road,0,0,0,0,3,0.001125348,0
+ALG,Fencing,0,0,0,0,4,0,0
+ALG,Judo,0,0,0,0,4,0.002248224,0
+ALG,Karate,0,0,0,0,1,0,0
+ALG,Marathon Swimming,0,0,0,0,1,0,0
+ALG,Rowing,0,0,0,0,2,0,0
+ALG,Sailing,0,0,0,0,3,0.001125348,0
+ALG,Shooting,0,0,0,0,1,0,0
+ALG,Swimming,0,0,0,0,6,0.004493981,0
+ALG,Table Tennis,0,0,0,0,1,0,0
+ALG,Weightlifting,0,0,0,0,3,0.002248224,0
+ALG,Wrestling,0,0,0,0,9,0.001125348,0
+AND,Athletics,0,0,0,0,1,0,0
+AND,Canoe Slalom,0,0,0,0,2,0.001125348,0
+ANG,Athletics,0,0,0,0,1,0,0
+ANG,Handball,0,0,0,0,26,0.013489349,0
+ANG,Judo,0,0,0,0,1,0,0
+ANG,Sailing,0,0,0,0,3,0.001125348,0
+ANG,Swimming,0,0,0,0,6,0.003368633,0
+ANT,Athletics,0,0,0,0,4,0.002248224,0
+ANT,Boxing,0,0,0,0,1,0,0
+ANT,Sailing,0,0,0,0,1,0,0
+ANT,Swimming,0,0,0,0,3,0.001125348,0
+ARG,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+ARG,Athletics,0,0,0,0,5,0,0
+ARG,Basketball,0,0,0,0,15,0.003373572,0
+ARG,Beach Volleyball,0,0,0,0,6,0.002248224,0
+ARG,Boxing,0,0,0,0,6,0,0
+ARG,Canoe Slalom,0,0,0,0,1,0,0
+ARG,Canoe Sprint,0,0,0,0,4,0.001125348,0
+ARG,Cycling BMX Racing,0,0,0,0,1,0,0
+ARG,Cycling Mountain Bike,0,0,0,0,1,0,0
+ARG,Cycling Road,0,0,0,0,1,0,0
+ARG,Equestrian,0,0,0,0,8,0.004501392,0
+ARG,Equestrianism,0,0,0,0,2,0.001125348,0
+ARG,Fencing,0,0,0,0,1,0,0
+ARG,Football,0,0,0,0,22,0,0
+ARG,Golf,0,0,0,0,1,0,0
+ARG,Handball,0,0,0,0,19,0.003373572,0
+ARG,Hockey,1,19,0,20,41,1.709852166,0
+ARG,Judo,1,0,1,2,8,0.123613999,0
+ARG,Marathon Swimming,0,0,0,0,1,0,0
+ARG,Modern Pentathlon,0,0,0,0,1,0,0
+ARG,Rowing,0,0,0,0,4,0.002248224,0
+ARG,Rugby Sevens,0,0,13,13,14,1.03976283,0
+ARG,Sailing,0,0,0,0,13,0.002250696,0
+ARG,Shooting,0,0,0,0,10,0.006747144,0
+ARG,Surfing,0,0,0,0,1,0,0
+ARG,Swimming,0,0,0,0,8,0.00449892,0
+ARG,Table Tennis,0,0,0,0,2,0,0
+ARG,Taekwondo,0,0,0,0,1,0,0
+ARG,Tennis,0,0,0,0,11,0.004501392,0
+ARG,Triathlon,0,0,0,0,1,0,0
+ARG,Volleyball,0,0,12,12,30,0.959852236,0
+ARG,Wrestling,0,0,0,0,1,0,0
+ARM,Artistic Gymnastics,0,0,1,1,2,0.079989894,0
+ARM,Athletics,0,0,0,0,2,0.001125348,0
+ARM,Boxing,0,0,1,1,4,0.079989894,0
+ARM,Judo,0,0,0,0,1,0,0
+ARM,Shooting,0,0,0,0,1,0,0
+ARM,Swimming,0,0,0,0,3,0.001125348,0
+ARM,Weightlifting,0,2,0,2,3,0.164831348,0
+ARM,Wrestling,1,1,1,3,8,0.15954354,0
+ARU,Swimming,0,0,0,0,5,0.003373572,0
+ASA,Athletics,0,0,0,0,1,0,0
+ASA,Sailing,0,0,0,0,2,0,0
+ASA,Swimming,0,0,0,0,2,0,0
+ASA,Weightlifting,0,0,0,0,1,0,0
+AUS,Archery,0,0,2,2,17,0.165821,0
+AUS,Artistic Gymnastics,0,0,0,0,12,0.010098504,0
+AUS,Artistic Swimming,0,0,0,0,10,0.002250696,0
+AUS,Athletics,0,1,2,3,95,0.280954183,0
+AUS,Badminton,0,0,0,0,5,0.001125348,0
+AUS,Baseball,0,1,0,1,1,0.086140832,0
+AUS,Baseball/Softball,0,0,0,0,15,0,0
+AUS,Basketball,0,0,13,13,33,1.04432589,0
+AUS,Beach Volleyball,0,2,0,2,5,0.172290252,0
+AUS,Boxing,0,0,1,1,5,0.079981078,0
+AUS,Canoe Slalom,1,0,1,2,4,0.12020334,0
+AUS,Canoe Sprint,2,0,0,2,24,0.170185158,0
+AUS,Canoeing,0,0,0,0,4,0.002250696,0
+AUS,Cycling,0,2,1,3,20,0.257977606,0
+AUS,Cycling BMX Freestyle,1,0,0,1,2,0.080581957,0
+AUS,Cycling BMX Racing,0,0,0,0,1,0,0
+AUS,Cycling Mountain Bike,0,0,0,0,2,0,0
+AUS,Cycling Road,0,0,0,0,9,0.003376044,0
+AUS,Cycling Track,0,0,5,5,17,0.40444396,0
+AUS,Diving,0,1,2,3,13,0.20309091,0
+AUS,Equestrian,0,4,1,5,18,0.387081887,0
+AUS,Equestrianism,2,1,0,3,6,0.243503477,0
+AUS,Football,0,0,0,0,53,0.010128132,0
+AUS,Golf,0,0,0,0,5,0.001125348,0
+AUS,Hockey,0,18,0,18,45,1.55507072,0
+AUS,Judo,0,0,0,0,5,0.002250696,0
+AUS,Karate,0,0,0,0,1,0,0
+AUS,Marathon Swimming,0,0,1,1,2,0.079981078,0
+AUS,Modern Pentathlon,0,0,0,0,3,0.001125348,0
+AUS,Rhythmic Gymnastics,0,0,0,0,6,0,0
+AUS,Rowing,8,3,8,19,52,1.462998949,0
+AUS,Rugby Sevens,5,0,0,5,34,0.406331979,0
+AUS,Sailing,4,3,0,7,19,0.526074648,0
+AUS,Shooting,0,0,0,0,51,0.040325247,0
+AUS,Skateboarding,1,0,0,1,5,0.080581957,0
+AUS,Sport Climbing,0,0,0,0,2,0,0
+AUS,Surfing,0,0,1,1,4,0.079981078,0
+AUS,Swimming,27,10,35,72,127,4.455950193,0
+AUS,Table Tennis,0,0,0,0,19,0.014604819,0
+AUS,Taekwondo,0,0,0,0,6,0.002248224,0
+AUS,Tennis,0,0,2,2,31,0.176801482,0
+AUS,Trampoline Gymnastics,0,0,0,0,2,0,0
+AUS,Triathlon,0,0,0,0,14,0.00899784,0
+AUS,Volleyball,0,0,0,0,1,0,0
+AUS,Water Polo,0,0,2,2,49,0.172451144,0
+AUS,Weightlifting,0,0,0,0,5,0,0
+AUS,Wrestling,0,0,0,0,1,0,0
+AUT,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+AUT,Artistic Swimming,0,0,0,0,2,0,0
+AUT,Athletics,0,0,1,1,9,0.082229302,0
+AUT,Badminton,0,0,0,0,1,0,0
+AUT,Canoe Slalom,0,0,0,0,3,0,0
+AUT,Canoe Sprint,0,0,0,0,4,0.002250696,0
+AUT,Cycling Mountain Bike,0,0,0,0,2,0,0
+AUT,Cycling Road,1,0,0,1,5,0.081707305,0
+AUT,Cycling Track,0,0,0,0,5,0.002250696,0
+AUT,Equestrian,0,0,0,0,8,0.003376044,0
+AUT,Golf,0,0,0,0,4,0.001125348,0
+AUT,Judo,0,1,1,2,10,0.170615891,0
+AUT,Karate,0,0,1,1,1,0.079981078,0
+AUT,Modern Pentathlon,0,0,0,0,1,0,0
+AUT,Rowing,0,0,1,1,4,0.079989894,0
+AUT,Sailing,0,0,2,2,9,0.159979788,0
+AUT,Shooting,0,0,0,0,3,0.001125348,0
+AUT,Skateboarding,0,0,0,0,1,0,0
+AUT,Sport Climbing,0,0,1,1,2,0.079981078,0
+AUT,Swimming,0,0,0,0,14,0.00787002,0
+AUT,Table Tennis,0,0,0,0,28,0.024604936,0
+AUT,Tennis,0,0,0,0,3,0.001125348,0
+AUT,Triathlon,0,0,0,0,10,0.006747144,0
+AUT,Weightlifting,0,0,0,0,3,0.001125348,0
+AZE,Artistic Gymnastics,0,0,0,0,12,0.011201669,0
+AZE,Athletics,0,0,0,0,4,0.001125348,0
+AZE,Badminton,0,0,0,0,1,0,0
+AZE,Boxing,0,0,1,1,5,0.079981078,0
+AZE,Cycling Road,0,0,0,0,1,0,0
+AZE,Fencing,0,0,0,0,1,0,0
+AZE,Judo,0,0,1,1,9,0.079981078,0
+AZE,Karate,0,2,0,2,3,0.172281664,0
+AZE,Rhythmic Gymnastics,0,0,0,0,6,0,0
+AZE,Shooting,0,0,0,0,5,0.003368633,0
+AZE,Swimming,0,0,0,0,2,0,0
+AZE,Taekwondo,0,0,0,0,2,0,0
+AZE,Triathlon,0,0,0,0,2,0.001125348,0
+AZE,Wrestling,0,3,3,6,10,0.400338836,0
+BAH,Athletics,2,0,2,4,37,0.298804765,0
+BAH,Swimming,0,0,0,0,7,0.005611926,0
+BAN,Archery,0,0,0,0,4,0.002250696,0
+BAN,Athletics,0,0,0,0,1,0,0
+BAN,Shooting,0,0,0,0,1,0,0
+BAN,Swimming,0,0,0,0,2,0,0
+BAR,Athletics,0,0,0,0,8,0.001125348,0
+BAR,Swimming,0,0,0,0,4,0.002248224,0
+BDI,Athletics,0,1,0,1,9,0.089572166,0
+BDI,Boxing,0,0,0,0,1,0,0
+BDI,Swimming,0,0,0,0,2,0,0
+BEL,3x3 Basketball,0,0,0,0,4,0,0
+BEL,Archery,0,0,0,0,1,0,0
+BEL,Artistic Gymnastics,1,0,0,1,24,0.097571798,0
+BEL,Athletics,2,0,1,3,48,0.25307994,0
+BEL,Badminton,0,0,0,0,3,0.002248224,0
+BEL,Basketball,0,0,0,0,12,0,0
+BEL,Canoe Slalom,0,0,0,0,1,0,0
+BEL,Canoe Sprint,0,0,0,0,5,0.002250696,0
+BEL,Cycling,0,0,1,1,7,0.081115242,0
+BEL,Cycling Road,0,1,0,1,10,0.088400116,0
+BEL,Cycling Track,0,0,0,0,5,0.001125348,0
+BEL,Equestrian,0,0,4,4,18,0.324460968,0
+BEL,Golf,0,0,0,0,4,0.001125348,0
+BEL,Hockey,18,3,0,21,25,1.58476139,0
+BEL,Judo,0,0,1,1,5,0.081106426,0
+BEL,Rowing,0,0,0,0,2,0,0
+BEL,Sailing,0,0,0,0,4,0,0
+BEL,Shooting,0,0,0,0,1,0,0
+BEL,Skateboarding,0,0,0,0,2,0,0
+BEL,Swimming,0,0,0,0,10,0.008973156,0
+BEL,Taekwondo,0,0,0,0,2,0.001125348,0
+BEL,Tennis,0,0,0,0,6,0.002250696,0
+BEL,Triathlon,0,0,0,0,9,0.005624268,0
+BEL,Weightlifting,0,0,0,0,2,0,0
+BEN,Athletics,0,0,0,0,5,0.002250696,0
+BEN,Judo,0,0,0,0,1,0,0
+BEN,Rowing,0,0,0,0,1,0,0
+BEN,Swimming,0,0,0,0,2,0,0
+BER,Rowing,0,0,0,0,1,0,0
+BER,Triathlon,1,0,0,1,4,0.080650937,0
+BHU,Archery,0,0,0,0,1,0,0
+BHU,Judo,0,0,0,0,1,0,0
+BHU,Shooting,0,0,0,0,2,0.001125348,0
+BHU,Swimming,0,0,0,0,1,0,0
+BIH,Athletics,0,0,0,0,4,0.002250696,0
+BIH,Judo,0,0,0,0,1,0,0
+BIH,Shooting,0,0,0,0,1,0,0
+BIH,Swimming,0,0,0,0,3,0.001125348,0
+BIH,Taekwondo,0,0,0,0,1,0,0
+BIZ,Athletics,0,0,0,0,2,0,0
+BIZ,Canoe Sprint,0,0,0,0,2,0.001125348,0
+BLR,Archery,0,0,0,0,6,0.003376044,0
+BLR,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+BLR,Artistic Swimming,0,0,0,0,2,0,0
+BLR,Athletics,0,1,2,3,35,0.204185424,0
+BLR,Boxing,0,0,0,0,4,0,0
+BLR,Canoe Sprint,0,4,0,4,18,0.346873008,0
+BLR,Cycling Road,0,0,0,0,3,0.001125348,0
+BLR,Cycling Track,0,0,0,0,2,0,0
+BLR,Equestrian,0,0,0,0,1,0,0
+BLR,Judo,0,0,0,0,3,0,0
+BLR,Modern Pentathlon,0,0,0,0,3,0,0
+BLR,Rhythmic Gymnastics,0,0,1,1,8,0.081106426,0
+BLR,Rowing,0,0,0,0,5,0,0
+BLR,Sailing,0,0,0,0,2,0,0
+BLR,Shooting,0,0,0,0,13,0.01119924,0
+BLR,Swimming,0,0,0,0,20,0.013481946,0
+BLR,Tennis,0,0,0,0,5,0.002250696,0
+BLR,Trampoline Gymnastics,1,0,0,1,2,0.080581957,0
+BLR,Weightlifting,0,0,0,0,2,0,0
+BLR,Wrestling,0,2,1,3,8,0.252262742,0
+BOL,Athletics,0,0,0,0,2,0,0
+BOL,Swimming,0,0,0,0,2,0,0
+BOL,Tennis,0,0,0,0,1,0,0
+BOT,Athletics,0,1,6,7,21,0.570674011,0
+BOT,Boxing,0,0,0,0,2,0,0
+BOT,Swimming,0,0,0,0,2,0.001125348,0
+BOT,Weightlifting,0,0,0,0,1,0,0
+BRA,Archery,0,0,0,0,6,0.004493981,0
+BRA,Artistic Gymnastics,1,1,0,2,43,0.161183234,0
+BRA,Athletics,0,0,2,2,85,0.191415137,0
+BRA,Badminton,0,0,0,0,2,0,0
+BRA,Basketball,0,0,0,0,1,0,0
+BRA,Beach Volleyball,1,1,0,2,10,0.1253357,0
+BRA,Boxing,1,1,1,3,7,0.246703867,0
+BRA,Canoe Slalom,0,0,0,0,3,0.001125348,0
+BRA,Canoe Sprint,1,0,0,1,5,0.081716535,0
+BRA,Canoeing,0,0,0,0,2,0,0
+BRA,Cycling,0,0,0,0,3,0.001125348,0
+BRA,Cycling BMX Racing,0,0,0,0,1,0,0
+BRA,Cycling Mountain Bike,0,0,0,0,2,0,0
+BRA,Diving,0,0,0,0,6,0.002248224,0
+BRA,Equestrian,0,0,0,0,17,0.009002784,0
+BRA,Fencing,0,0,0,0,7,0.005616857,0
+BRA,Football,22,2,0,24,46,1.945084718,0
+BRA,Handball,0,0,0,0,36,0.004501392,0
+BRA,Judo,0,0,3,3,26,0.251235297,0
+BRA,Marathon Swimming,1,0,0,1,1,0.080581957,0
+BRA,Modern Pentathlon,0,0,0,0,1,0,0
+BRA,Rhythmic Gymnastics,0,0,0,0,5,0,0
+BRA,Rowing,0,0,0,0,1,0,0
+BRA,Rugby Sevens,0,0,0,0,16,0.003376044,0
+BRA,Sailing,6,2,2,10,35,0.678841921,0
+BRA,Shooting,0,0,0,0,1,0,0
+BRA,Skateboarding,0,3,0,3,12,0.258422496,0
+BRA,Surfing,1,0,0,1,4,0.080581957,0
+BRA,Swimming,0,0,2,2,70,0.204897989,0
+BRA,Table Tennis,0,0,0,0,27,0.022423084,0
+BRA,Taekwondo,0,0,0,0,3,0,0
+BRA,Tennis,0,0,2,2,11,0.165573035,0
+BRA,Triathlon,0,0,0,0,3,0,0
+BRA,Volleyball,3,12,0,15,28,1.151258071,0
+BRA,Weightlifting,0,0,0,0,2,0,0
+BRA,Wrestling,0,0,0,0,3,0.001125348,0
+BRN,Athletics,0,1,0,1,17,0.089516876,0
+BRN,Boxing,0,0,0,0,1,0,0
+BRN,Handball,0,0,0,0,15,0.001125348,0
+BRN,Shooting,0,0,0,0,1,0,0
+BRN,Swimming,0,0,0,0,2,0,0
+BRU,Athletics,0,0,0,0,1,0,0
+BRU,Swimming,0,0,0,0,1,0,0
+BUL,Artistic Gymnastics,0,0,0,0,7,0.006715091,0
+BUL,Athletics,0,1,0,1,21,0.101827893,0
+BUL,Badminton,0,0,0,0,6,0.003376044,0
+BUL,Boxing,1,0,0,1,3,0.080581957,0
+BUL,Canoe Sprint,0,0,0,0,1,0,0
+BUL,Judo,0,0,0,0,5,0.002250696,0
+BUL,Karate,1,0,0,1,1,0.080581957,0
+BUL,Rhythmic Gymnastics,5,0,0,5,7,0.402909785,0
+BUL,Shooting,0,1,0,1,5,0.087274768,0
+BUL,Swimming,0,0,0,0,10,0.00562674,0
+BUL,Table Tennis,0,0,0,0,1,0,0
+BUL,Weightlifting,0,0,0,0,2,0,0
+BUL,Wrestling,0,0,2,2,7,0.159962156,0
+BUR,Athletics,0,0,1,1,5,0.083349711,0
+BUR,Cycling Road,0,0,0,0,1,0,0
+BUR,Judo,0,0,0,0,1,0,0
+BUR,Swimming,0,0,0,0,2,0,0
+BUR,Taekwondo,0,0,0,0,1,0,0
+CAF,Athletics,0,0,0,0,1,0,0
+CAF,Swimming,0,0,0,0,1,0,0
+CAM,Athletics,0,0,0,0,1,0,0
+CAM,Swimming,0,0,0,0,2,0,0
+CAN,Archery,0,0,0,0,8,0.006727411,0
+CAN,Artistic Gymnastics,0,0,0,0,31,0.029123343,0
+CAN,Artistic Swimming,0,0,0,0,10,0.002250696,0
+CAN,Athletics,2,2,12,16,114,1.216488403,0
+CAN,Badminton,0,0,0,0,8,0,0
+CAN,Baseball/Softball,0,0,15,15,15,1.19971617,0
+CAN,Basketball,0,0,0,0,18,0.006747144,0
+CAN,Beach Volleyball,0,0,0,0,6,0.002250696,0
+CAN,Boxing,0,0,0,0,6,0.001125348,0
+CAN,Canoe Slalom,0,0,0,0,4,0,0
+CAN,Canoe Sprint,0,1,2,3,26,0.214247789,0
+CAN,Cycling,0,0,3,3,11,0.241108232,0
+CAN,Cycling BMX Racing,0,0,0,0,2,0,0
+CAN,Cycling Mountain Bike,0,0,0,0,2,0,0
+CAN,Cycling Road,0,0,0,0,4,0.001125348,0
+CAN,Cycling Track,1,0,1,2,17,0.163957125,0
+CAN,Diving,0,2,4,6,26,0.4303142,0
+CAN,Equestrian,0,0,0,0,11,0.004501392,0
+CAN,Fencing,0,0,0,0,17,0.006749616,0
+CAN,Football,22,0,14,36,38,2.394973262,0
+CAN,Golf,0,0,0,0,6,0.002250696,0
+CAN,Hockey,0,0,0,0,18,0,0
+CAN,Judo,0,0,3,3,10,0.241108232,0
+CAN,Karate,0,0,0,0,1,0,0
+CAN,Marathon Swimming,0,0,0,0,2,0,0
+CAN,Rowing,9,0,2,11,37,0.890863015,0
+CAN,Rugby Sevens,0,0,5,5,31,0.39994947,0
+CAN,Sailing,0,0,0,0,14,0.006737274,0
+CAN,Shooting,0,0,0,0,2,0.001125348,0
+CAN,Skateboarding,0,0,0,0,4,0,0
+CAN,Sport Climbing,0,0,0,0,2,0,0
+CAN,Swimming,1,7,12,20,112,1.310121477,0
+CAN,Table Tennis,0,0,0,0,9,0.005611926,0
+CAN,Taekwondo,0,0,0,0,2,0,0
+CAN,Tennis,0,0,0,0,7,0.003373572,0
+CAN,Trampoline Gymnastics,0,0,0,0,2,0,0
+CAN,Triathlon,0,0,0,0,10,0.005624268,0
+CAN,Volleyball,0,0,0,0,17,0.00562674,0
+CAN,Water Polo,0,0,0,0,13,0,0
+CAN,Weightlifting,1,0,0,1,6,0.081707305,0
+CAN,Wrestling,0,0,0,0,4,0,0
+CAY,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+CAY,Athletics,0,0,0,0,4,0.002248224,0
+CAY,Swimming,0,0,0,0,6,0.004486578,0
+CGO,Athletics,0,0,0,0,2,0,0
+CGO,Swimming,0,0,0,0,2,0.001125348,0
+CGO,Table Tennis,0,0,0,0,1,0,0
+CHA,Archery,0,0,0,0,1,0,0
+CHA,Athletics,0,0,0,0,2,0.001125348,0
+CHA,Judo,0,0,0,0,1,0,0
+CHI,Archery,0,0,0,0,1,0,0
+CHI,Artistic Gymnastics,0,0,0,0,6,0.004486578,0
+CHI,Athletics,0,0,0,0,3,0,0
+CHI,Beach Volleyball,0,0,0,0,2,0,0
+CHI,Canoe Sprint,0,0,0,0,3,0.001125348,0
+CHI,Cycling BMX Freestyle,0,0,0,0,1,0,0
+CHI,Cycling Mountain Bike,0,0,0,0,1,0,0
+CHI,Cycling Road,0,0,0,0,1,0,0
+CHI,Equestrian,0,0,0,0,2,0,0
+CHI,Fencing,0,0,0,0,1,0,0
+CHI,Football,0,0,0,0,22,0,0
+CHI,Golf,0,0,0,0,2,0,0
+CHI,Judo,0,0,0,0,1,0,0
+CHI,Modern Pentathlon,0,0,0,0,1,0,0
+CHI,Rowing,0,0,0,0,2,0,0
+CHI,Sailing,0,0,0,0,1,0,0
+CHI,Shooting,0,0,0,0,1,0,0
+CHI,Skateboarding,0,0,0,0,1,0,0
+CHI,Surfing,0,0,0,0,1,0,0
+CHI,Swimming,0,0,0,0,3,0.001125348,0
+CHI,Table Tennis,0,0,0,0,1,0,0
+CHI,Tennis,0,0,0,0,1,0,0
+CHI,Triathlon,0,0,0,0,2,0,0
+CHI,Weightlifting,0,0,0,0,2,0,0
+CHI,Wrestling,0,0,0,0,1,0,0
+CHN,3x3 Basketball,0,0,4,4,8,0.319924312,0
+CHN,Archery,0,0,0,0,14,0.00899784,0
+CHN,Artistic Gymnastics,3,3,5,11,61,0.814194463,0
+CHN,Artistic Swimming,0,10,0,10,10,0.846507688,0
+CHN,Athletics,2,2,1,5,58,0.42130162,0
+CHN,Badminton,3,7,0,10,14,0.844740283,0
+CHN,Basketball,0,0,0,0,12,0,0
+CHN,Beach Volleyball,0,0,0,0,4,0,0
+CHN,Boxing,0,2,0,2,6,0.172281664,0
+CHN,Canoe Slalom,0,0,0,0,3,0,0
+CHN,Canoe Sprint,2,3,0,5,25,0.421147466,0
+CHN,Cycling Mountain Bike,0,0,0,0,1,0,0
+CHN,Cycling Road,0,0,0,0,2,0,0
+CHN,Cycling Track,3,0,0,3,10,0.242935675,0
+CHN,Diving,10,6,0,16,16,1.149363454,0
+CHN,Equestrian,0,0,0,0,15,0.007877436,0
+CHN,Fencing,1,0,0,1,25,0.089593971,0
+CHN,Football,0,0,0,0,22,0,0
+CHN,Golf,0,0,0,0,4,0,0
+CHN,Hockey,0,0,0,0,17,0,0
+CHN,Judo,0,0,0,0,6,0,0
+CHN,Karate,0,1,1,2,2,0.16612191,0
+CHN,Marathon Swimming,0,0,0,0,1,0,0
+CHN,Modern Pentathlon,0,0,0,0,4,0,0
+CHN,Rhythmic Gymnastics,0,0,0,0,5,0,0
+CHN,Rowing,4,0,11,15,28,1.202119686,0
+CHN,Rugby Sevens,0,0,0,0,13,0,0
+CHN,Sailing,1,0,1,2,12,0.160563035,0
+CHN,Shooting,6,1,6,13,31,0.926855899,0
+CHN,Skateboarding,0,0,0,0,1,0,0
+CHN,Sport Climbing,0,0,0,0,2,0,0
+CHN,Swimming,8,5,1,14,64,1.003235252,0
+CHN,Table Tennis,8,4,0,12,12,0.857321482,0
+CHN,Taekwondo,0,0,1,1,6,0.079981078,0
+CHN,Tennis,0,0,0,0,6,0.001125348,0
+CHN,Trampoline Gymnastics,1,2,0,3,4,0.252863621,0
+CHN,Triathlon,0,0,0,0,1,0,0
+CHN,Volleyball,0,0,0,0,12,0,0
+CHN,Water Polo,0,0,0,0,13,0,0
+CHN,Weightlifting,7,1,0,8,8,0.650214531,0
+CHN,Wrestling,0,2,2,4,11,0.33224382,0
+CIV,Athletics,0,0,0,0,4,0.001125348,0
+CIV,Football,0,0,0,0,21,0,0
+CIV,Judo,0,0,0,0,1,0,0
+CIV,Rowing,0,0,0,0,1,0,0
+CIV,Swimming,0,0,0,0,1,0,0
+CIV,Taekwondo,0,0,2,2,6,0.152198871,0
+CMR,Athletics,0,0,0,0,1,0,0
+CMR,Boxing,0,0,0,0,3,0,0
+CMR,Judo,0,0,0,0,2,0,0
+CMR,Swimming,0,0,0,0,2,0,0
+CMR,Table Tennis,0,0,0,0,2,0.001125348,0
+CMR,Weightlifting,0,0,0,0,2,0,0
+CMR,Wrestling,0,0,0,0,1,0,0
+COD,Athletics,0,0,0,0,1,0,0
+COD,Boxing,0,0,0,0,4,0,0
+COD,Judo,0,0,0,0,1,0,0
+COD,Taekwondo,0,0,0,0,1,0,0
+COK,Athletics,0,0,0,0,2,0.001125348,0
+COK,Canoe Slalom,0,0,0,0,2,0.001125348,0
+COK,Canoe Sprint,0,0,0,0,3,0.001125348,0
+COK,Swimming,0,0,0,0,3,0.001125348,0
+COL,Archery,0,0,0,0,4,0.002250696,0
+COL,Artistic Swimming,0,0,0,0,2,0,0
+COL,Athletics,0,2,0,2,26,0.1734156,0
+COL,Boxing,0,0,0,0,6,0,0
+COL,Cycling BMX Racing,0,1,1,2,3,0.16612191,0
+COL,Cycling Road,0,0,0,0,6,0.001125348,0
+COL,Cycling Track,0,0,0,0,2,0.001125348,0
+COL,Diving,0,0,0,0,3,0,0
+COL,Equestrian,0,0,0,0,1,0,0
+COL,Fencing,0,0,0,0,1,0,0
+COL,Football,0,0,0,0,1,0,0
+COL,Golf,0,0,0,0,2,0,0
+COL,Judo,0,0,0,0,1,0,0
+COL,Shooting,0,0,0,0,1,0,0
+COL,Skateboarding,0,0,0,0,1,0,0
+COL,Swimming,0,0,0,0,4,0.002250696,0
+COL,Taekwondo,0,0,0,0,2,0,0
+COL,Tennis,0,0,0,0,4,0,0
+COL,Trampoline Gymnastics,0,0,0,0,1,0,0
+COL,Weightlifting,0,1,0,1,3,0.086140832,0
+COL,Wrestling,0,0,0,0,3,0,0
+COM,Athletics,0,0,0,0,2,0,0
+COM,Judo,0,0,0,0,1,0,0
+CPV,Athletics,0,0,0,0,2,0.001125348,0
+CPV,Boxing,0,0,0,0,1,0,0
+CPV,Judo,0,0,0,0,1,0,0
+CPV,Rhythmic Gymnastics,0,0,0,0,1,0,0
+CPV,Swimming,0,0,0,0,2,0,0
+CRC,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+CRC,Athletics,0,0,0,0,3,0,0
+CRC,Cycling BMX Freestyle,0,0,0,0,1,0,0
+CRC,Cycling Road,0,0,0,0,2,0,0
+CRC,Judo,0,0,0,0,1,0,0
+CRC,Surfing,0,0,0,0,3,0,0
+CRC,Swimming,0,0,0,0,5,0.002248224,0
+CRC,Taekwondo,0,0,0,0,1,0,0
+CRO,Artistic Gymnastics,0,1,0,1,3,0.08726618,0
+CRO,Athletics,1,0,0,1,8,0.080591187,0
+CRO,Boxing,0,0,0,0,2,0,0
+CRO,Canoe Slalom,0,0,0,0,1,0,0
+CRO,Canoe Sprint,0,0,0,0,3,0.001125348,0
+CRO,Cycling Road,0,0,0,0,1,0,0
+CRO,Judo,0,0,0,0,3,0,0
+CRO,Karate,0,0,0,0,1,0,0
+CRO,Rowing,2,2,1,5,5,0.351643146,0
+CRO,Sailing,0,1,0,1,4,0.086140832,0
+CRO,Shooting,0,0,0,0,9,0.005621796,0
+CRO,Swimming,0,0,0,0,5,0.003373572,0
+CRO,Table Tennis,0,0,0,0,5,0.002250696,0
+CRO,Taekwondo,1,0,1,2,4,0.160563035,0
+CRO,Tennis,2,2,0,4,10,0.333516867,0
+CRO,Water Polo,0,1,0,1,14,0.08614942,0
+CRO,Wrestling,0,0,0,0,2,0,0
+CUB,Artistic Gymnastics,0,0,0,0,1,0,0
+CUB,Athletics,0,1,2,3,22,0.249479032,0
+CUB,Beach Volleyball,0,0,0,0,2,0,0
+CUB,Boxing,4,0,1,5,7,0.402308906,0
+CUB,Canoe Sprint,2,0,0,2,8,0.16342384,0
+CUB,Cycling Road,0,0,0,0,1,0,0
+CUB,Judo,0,1,0,1,5,0.086140832,0
+CUB,Modern Pentathlon,0,0,0,0,2,0,0
+CUB,Rowing,0,0,0,0,1,0,0
+CUB,Shooting,0,1,0,1,8,0.090639752,0
+CUB,Swimming,0,0,0,0,4,0.002250696,0
+CUB,Table Tennis,0,0,0,0,2,0.001125348,0
+CUB,Taekwondo,0,0,1,1,1,0.079981078,0
+CUB,Weightlifting,0,0,0,0,5,0,0
+CUB,Wrestling,2,0,1,3,12,0.241144992,0
+CYP,Artistic Gymnastics,0,0,0,0,7,0.006715091,0
+CYP,Athletics,0,0,0,0,9,0.006742205,0
+CYP,Cycling,0,0,0,0,1,0,0
+CYP,Sailing,0,1,0,1,7,0.086203533,0
+CYP,Shooting,0,0,0,0,4,0,0
+CYP,Swimming,0,0,0,0,4,0.002250696,0
+CZE,Archery,0,0,0,0,1,0,0
+CZE,Artistic Gymnastics,0,0,0,0,12,0.011201669,0
+CZE,Athletics,0,1,1,2,32,0.168402098,0
+CZE,Basketball,0,0,0,0,12,0,0
+CZE,Beach Volleyball,0,0,0,0,4,0,0
+CZE,Canoe Slalom,1,1,0,2,4,0.166722789,0
+CZE,Canoe Sprint,0,0,2,2,7,0.162221668,0
+CZE,Cycling Mountain Bike,0,0,0,0,2,0,0
+CZE,Cycling Road,0,0,0,0,5,0.001125348,0
+CZE,Cycling Track,0,0,0,0,2,0.001125348,0
+CZE,Equestrian,0,0,0,0,10,0.004501392,0
+CZE,Fencing,0,0,1,1,3,0.079989894,0
+CZE,Golf,0,0,0,0,2,0,0
+CZE,Judo,1,0,0,1,2,0.080581957,0
+CZE,Marathon Swimming,0,0,0,0,1,0,0
+CZE,Modern Pentathlon,0,0,0,0,3,0.001125348,0
+CZE,Rowing,0,0,0,0,9,0.002248224,0
+CZE,Sailing,0,0,0,0,1,0,0
+CZE,Shooting,1,1,0,2,12,0.171221709,0
+CZE,Sport Climbing,0,0,0,0,1,0,0
+CZE,Swimming,0,0,0,0,19,0.012354131,0
+CZE,Table Tennis,0,0,0,0,3,0,0
+CZE,Tennis,2,1,0,3,9,0.248447912,0
+CZE,Triathlon,0,0,0,0,2,0,0
+CZE,Weightlifting,0,0,0,0,1,0,0
+CZE,Wrestling,0,0,0,0,1,0,0
+DEN,Archery,0,0,0,0,7,0.005616857,0
+DEN,Athletics,0,0,0,0,17,0.002250696,0
+DEN,Badminton,1,0,1,2,10,0.12020334,0
+DEN,Canoe Sprint,0,0,2,2,9,0.155574915,0
+DEN,Cycling,0,1,2,3,10,0.247291037,0
+DEN,Cycling Mountain Bike,0,0,0,0,3,0,0
+DEN,Cycling Road,0,0,0,0,6,0.002250696,0
+DEN,Cycling Track,2,5,0,7,9,0.509085967,0
+DEN,Equestrian,0,0,0,0,10,0.004501392,0
+DEN,Golf,0,0,0,0,4,0,0
+DEN,Handball,2,14,0,16,18,1.284369802,0
+DEN,Judo,0,0,0,0,1,0,0
+DEN,Rowing,0,0,2,2,9,0.159962156,0
+DEN,Sailing,2,0,0,2,10,0.161196142,0
+DEN,Shooting,0,1,0,1,9,0.089546368,0
+DEN,Skateboarding,0,0,0,0,1,0,0
+DEN,Swimming,1,0,2,3,31,0.192750695,0
+DEN,Table Tennis,0,0,0,0,2,0.001125348,0
+DEN,Wrestling,0,0,0,0,1,0,0
+DJI,Athletics,0,0,0,0,3,0.001125348,0
+DJI,Judo,0,0,0,0,1,0,0
+DJI,Swimming,0,0,0,0,1,0,0
+DMA,Athletics,0,0,0,0,3,0.001125348,0
+DOM,Athletics,0,6,0,6,9,0.509394676,0
+DOM,Baseball/Softball,0,0,24,24,24,1.919545872,0
+DOM,Boxing,0,0,0,0,7,0,0
+DOM,Diving,0,0,0,0,1,0,0
+DOM,Equestrian,0,0,0,0,2,0,0
+DOM,Judo,0,0,0,0,1,0,0
+DOM,Rowing,0,0,0,0,1,0,0
+DOM,Shooting,0,0,0,0,1,0,0
+DOM,Swimming,0,0,0,0,4,0.002250696,0
+DOM,Table Tennis,0,0,0,0,3,0.002248224,0
+DOM,Taekwondo,0,0,0,0,3,0,0
+DOM,Volleyball,0,0,0,0,13,0.001125348,0
+DOM,Weightlifting,0,1,1,2,5,0.16612191,0
+ECU,Archery,0,0,0,0,1,0,0
+ECU,Athletics,0,0,0,0,20,0.003373572,0
+ECU,Boxing,0,0,0,0,5,0.001125348,0
+ECU,Cycling BMX Racing,0,0,0,0,2,0,0
+ECU,Cycling Road,1,0,0,1,2,0.080581957,0
+ECU,Equestrian,0,0,0,0,1,0,0
+ECU,Golf,0,0,0,0,1,0,0
+ECU,Judo,0,0,0,0,3,0,0
+ECU,Marathon Swimming,0,0,0,0,2,0,0
+ECU,Modern Pentathlon,0,0,0,0,1,0,0
+ECU,Shooting,0,0,0,0,4,0.002250696,0
+ECU,Surfing,0,0,0,0,1,0,0
+ECU,Swimming,0,0,0,0,4,0.002250696,0
+ECU,Table Tennis,0,0,0,0,1,0,0
+ECU,Triathlon,0,0,0,0,1,0,0
+ECU,Weightlifting,1,1,0,2,4,0.166722789,0
+ECU,Wrestling,0,0,0,0,2,0,0
+EGY,Archery,0,0,0,0,4,0.002250696,0
+EGY,Artistic Gymnastics,0,0,0,0,17,0.015688247,0
+EGY,Artistic Swimming,0,0,0,0,10,0.002250696,0
+EGY,Athletics,0,0,0,0,5,0.001125348,0
+EGY,Badminton,0,0,0,0,5,0.002248224,0
+EGY,Basketball,0,0,0,0,2,0.001125348,0
+EGY,Boxing,0,0,0,0,2,0,0
+EGY,Canoe Sprint,0,0,0,0,3,0.001125348,0
+EGY,Cycling Track,0,0,0,0,1,0,0
+EGY,Diving,0,0,0,0,4,0.002250696,0
+EGY,Equestrian,0,0,0,0,8,0.004501392,0
+EGY,Fencing,0,1,0,1,31,0.098680681,0
+EGY,Football,0,0,0,0,22,0,0
+EGY,Gymnastics,0,0,0,0,8,0.007825668,0
+EGY,Handball,0,0,0,0,16,0.003376044,0
+EGY,Judo,0,0,0,0,6,0.003373572,0
+EGY,Karate,1,0,1,2,5,0.160563035,0
+EGY,Modern Pentathlon,0,1,0,1,4,0.086140832,0
+EGY,Rhythmic Gymnastics,0,0,0,0,6,0,0
+EGY,Rowing,0,0,0,0,1,0,0
+EGY,Sailing,0,0,0,0,2,0,0
+EGY,Shooting,0,0,0,0,22,0.012371412,0
+EGY,Swimming,0,0,0,0,13,0.010098511,0
+EGY,Table Tennis,0,0,0,0,23,0.019059359,0
+EGY,Taekwondo,0,0,2,2,4,0.159962156,0
+EGY,Tennis,0,0,0,0,2,0,0
+EGY,Trampoline Gymnastics,0,0,0,0,2,0,0
+EGY,Triathlon,0,0,0,0,1,0,0
+EGY,Wrestling,0,0,1,1,8,0.081106426,0
+EOR,Athletics,0,0,0,0,7,0,0
+EOR,Badminton,0,0,0,0,1,0,0
+EOR,Boxing,0,0,0,0,2,0,0
+EOR,Canoe Sprint,0,0,0,0,1,0,0
+EOR,Cycling Road,0,0,0,0,2,0,0
+EOR,Judo,0,0,0,0,12,0.006752088,0
+EOR,Karate,0,0,0,0,2,0,0
+EOR,Shooting,0,0,0,0,1,0,0
+EOR,Swimming,0,0,0,0,2,0,0
+EOR,Taekwondo,0,0,0,0,3,0,0
+EOR,Weightlifting,0,0,0,0,1,0,0
+EOR,Wrestling,0,0,0,0,1,0,0
+ERI,Athletics,0,0,0,0,12,0.003376044,0
+ERI,Cycling Road,0,0,0,0,4,0.001125348,0
+ERI,Swimming,0,0,0,0,1,0,0
+ESA,Athletics,0,0,0,0,1,0,0
+ESA,Boxing,0,0,0,0,1,0,0
+ESA,Sailing,0,0,0,0,1,0,0
+ESA,Swimming,0,0,0,0,4,0.002250696,0
+ESP,Archery,0,0,0,0,4,0.002250696,0
+ESP,Artistic Gymnastics,0,1,0,1,58,0.139860344,0
+ESP,Artistic Swimming,0,0,0,0,10,0.002250696,0
+ESP,Athletics,0,0,1,1,63,0.087841228,0
+ESP,Badminton,0,0,0,0,2,0,0
+ESP,Baseball,0,0,0,0,1,0,0
+ESP,Basketball,0,0,0,0,24,0,0
+ESP,Beach Volleyball,0,0,0,0,4,0,0
+ESP,Boxing,0,0,0,0,4,0,0
+ESP,Canoe Slalom,0,1,0,1,4,0.086140832,0
+ESP,Canoe Sprint,0,5,0,5,15,0.432972032,0
+ESP,Cycling Mountain Bike,0,0,0,0,2,0,0
+ESP,Cycling Road,0,0,0,0,9,0.002250696,0
+ESP,Cycling Track,0,0,0,0,4,0.002250696,0
+ESP,Diving,0,0,0,0,2,0,0
+ESP,Equestrian,0,0,0,0,8,0.003376044,0
+ESP,Fencing,0,0,0,0,1,0,0
+ESP,Football,0,22,0,22,22,1.895098304,0
+ESP,Golf,0,0,0,0,4,0,0
+ESP,Handball,0,0,15,15,29,1.19971617,0
+ESP,Hockey,0,0,0,0,36,0,0
+ESP,Judo,0,0,0,0,7,0,0
+ESP,Karate,1,1,0,2,2,0.166722789,0
+ESP,Marathon Swimming,0,0,0,0,2,0,0
+ESP,Modern Pentathlon,0,0,0,0,1,0,0
+ESP,Rowing,0,0,0,0,5,0,0
+ESP,Sailing,0,0,3,3,15,0.239943234,0
+ESP,Shooting,2,0,0,2,4,0.161182374,0
+ESP,Skateboarding,0,0,0,0,4,0,0
+ESP,Sport Climbing,1,0,0,1,1,0.080581957,0
+ESP,Swimming,0,0,0,0,19,0.012364001,0
+ESP,Table Tennis,0,0,0,0,3,0,0
+ESP,Taekwondo,0,1,0,1,4,0.086140832,0
+ESP,Tennis,0,0,1,1,18,0.089012224,0
+ESP,Triathlon,0,0,0,0,10,0.00562674,0
+ESP,Water Polo,0,13,0,13,25,1.119830816,0
+ESP,Weightlifting,0,0,0,0,4,0,0
+EST,Archery,0,0,0,0,1,0,0
+EST,Athletics,0,0,0,0,13,0.006747144,0
+EST,Badminton,0,0,0,0,5,0.003368633,0
+EST,Cycling,0,0,0,0,2,0.001125348,0
+EST,Cycling Mountain Bike,0,0,0,0,1,0,0
+EST,Cycling Road,0,0,0,0,1,0,0
+EST,Equestrian,0,0,0,0,1,0,0
+EST,Fencing,4,0,1,5,11,0.362087171,0
+EST,Judo,0,0,0,0,1,0,0
+EST,Rowing,0,0,2,2,10,0.160094242,0
+EST,Sailing,0,0,0,0,4,0.002248224,0
+EST,Shooting,0,0,0,0,3,0.002248224,0
+EST,Swimming,0,0,0,0,8,0.005619329,0
+EST,Tennis,0,0,0,0,1,0,0
+EST,Triathlon,0,0,0,0,2,0.001125348,0
+EST,Wrestling,0,0,0,0,2,0,0
+ETH,Athletics,1,1,2,4,38,0.331186337,0
+ETH,Cycling Road,0,0,0,0,1,0,0
+ETH,Swimming,0,0,0,0,1,0,0
+ETH,Taekwondo,0,0,0,0,1,0,0
+EUN,Gymnastics,1,0,0,1,6,0.080765609,0
+EUN,Swimming,0,1,0,1,2,0.08614942,0
+FIJ,Athletics,0,0,0,0,1,0,0
+FIJ,Judo,0,0,0,0,1,0,0
+FIJ,Rugby Sevens,13,0,13,26,31,2.087363535,0
+FIJ,Sailing,0,0,0,0,1,0,0
+FIJ,Swimming,0,0,0,0,2,0,0
+FIJ,Table Tennis,0,0,0,0,2,0.001125348,0
+FIN,Archery,0,0,0,0,1,0,0
+FIN,Athletics,0,0,0,0,27,0.006744677,0
+FIN,Badminton,0,0,0,0,1,0,0
+FIN,Boxing,0,0,1,1,1,0.079981078,0
+FIN,Equestrian,0,0,0,0,1,0,0
+FIN,Golf,0,0,0,0,4,0,0
+FIN,Sailing,0,0,0,0,8,0.003373572,0
+FIN,Shooting,0,0,0,0,3,0,0
+FIN,Skateboarding,0,0,0,0,1,0,0
+FIN,Swimming,0,0,1,1,13,0.08459442,0
+FIN,Wrestling,0,0,0,0,2,0,0
+FRA,3x3 Basketball,0,0,0,0,4,0,0
+FRA,Archery,0,0,0,0,11,0.007862622,0
+FRA,Artistic Gymnastics,0,0,0,0,33,0.029123343,0
+FRA,Artistic Swimming,0,0,0,0,2,0,0
+FRA,Athletics,1,2,1,4,85,0.308498952,0
+FRA,Badminton,0,0,0,0,6,0.002248224,0
+FRA,Basketball,0,13,12,25,30,2.036551494,0
+FRA,Boxing,0,1,0,1,6,0.08614942,0
+FRA,Canoe Slalom,0,0,0,0,4,0,0
+FRA,Canoe Sprint,0,0,0,0,15,0.007874964,0
+FRA,Cycling,0,0,0,0,4,0.001125348,0
+FRA,Cycling BMX Freestyle,0,0,0,0,1,0,0
+FRA,Cycling BMX Racing,0,0,0,0,3,0,0
+FRA,Cycling Mountain Bike,0,0,0,0,3,0,0
+FRA,Cycling Road,0,0,0,0,8,0.002250696,0
+FRA,Cycling Track,0,0,7,7,29,0.567850172,0
+FRA,Diving,0,0,0,0,5,0.002248224,0
+FRA,Equestrian,0,0,3,3,22,0.248972466,0
+FRA,Fencing,6,8,1,15,44,1.211086364,0
+FRA,Football,0,0,0,0,21,0,0
+FRA,Golf,0,0,0,0,4,0,0
+FRA,Handball,36,8,0,44,49,3.204914566,0
+FRA,Judo,14,4,4,22,29,1.462484493,0
+FRA,Karate,1,0,0,1,3,0.080581957,0
+FRA,Marathon Swimming,0,0,0,0,3,0,0
+FRA,Modern Pentathlon,0,0,0,0,6,0.002250696,0
+FRA,Rowing,2,2,0,4,15,0.333487036,0
+FRA,Rugby Sevens,0,13,0,13,16,1.11985658,0
+FRA,Sailing,1,2,3,6,18,0.443656481,0
+FRA,Shooting,1,1,0,2,16,0.130943451,0
+FRA,Skateboarding,0,0,0,0,5,0,0
+FRA,Sport Climbing,0,0,0,0,4,0,0
+FRA,Surfing,0,0,0,0,4,0,0
+FRA,Swimming,1,4,1,6,67,0.456710769,0
+FRA,Table Tennis,0,0,0,0,16,0.011228783,0
+FRA,Taekwondo,0,0,1,1,2,0.079981078,0
+FRA,Tennis,0,0,0,0,33,0.025806496,0
+FRA,Trampoline Gymnastics,0,0,0,0,2,0,0
+FRA,Triathlon,0,0,5,5,14,0.400050733,0
+FRA,Volleyball,12,0,0,12,14,0.967001944,0
+FRA,Weightlifting,0,0,0,0,4,0,0
+FRA,Wrestling,0,0,0,0,2,0,0
+FSM,Athletics,0,0,0,0,1,0,0
+FSM,Swimming,0,0,0,0,2,0,0
+GAB,Athletics,0,0,0,0,1,0,0
+GAB,Judo,0,0,0,0,1,0,0
+GAB,Swimming,0,0,0,0,2,0,0
+GAB,Taekwondo,0,0,0,0,1,0,0
+GAM,Athletics,0,0,0,0,4,0.002248224,0
+GAM,Judo,0,0,0,0,2,0.001125348,0
+GAM,Swimming,0,0,0,0,1,0,0
+GBR,Archery,0,0,0,0,22,0.017926697,0
+GBR,Artistic Gymnastics,1,0,4,5,55,0.42494855,0
+GBR,Artistic Swimming,0,0,0,0,2,0,0
+GBR,Athletics,0,8,9,17,130,1.430769585,0
+GBR,Badminton,0,0,1,1,11,0.083363466,0
+GBR,Boxing,2,3,2,7,13,0.579557796,0
+GBR,Canoe Slalom,0,1,0,1,4,0.086140832,0
+GBR,Canoe Sprint,0,0,1,1,6,0.082231774,0
+GBR,Cycling,15,1,2,18,23,1.255190573,0
+GBR,Cycling BMX Freestyle,1,0,1,2,2,0.160563035,0
+GBR,Cycling BMX Racing,1,1,0,2,2,0.166722789,0
+GBR,Cycling Mountain Bike,1,0,0,1,2,0.080581957,0
+GBR,Cycling Road,0,0,0,0,6,0.002250696,0
+GBR,Cycling Track,2,8,1,11,21,0.804465888,0
+GBR,Diving,3,1,5,9,28,0.568316661,0
+GBR,Equestrian,5,1,5,11,23,0.843206696,0
+GBR,Fencing,0,0,0,0,2,0.001125348,0
+GBR,Football,0,0,0,0,25,0.003376044,0
+GBR,Golf,0,0,0,0,4,0,0
+GBR,Hockey,4,0,18,22,41,1.583792743,0
+GBR,Judo,0,0,1,1,9,0.082231774,0
+GBR,Marathon Swimming,0,0,0,0,2,0,0
+GBR,Modern Pentathlon,2,0,0,2,6,0.162298492,0
+GBR,Rowing,3,7,10,20,52,1.58366132,0
+GBR,Rugby Sevens,0,1,0,1,28,0.088400116,0
+GBR,Sailing,7,5,1,13,24,0.975971505,0
+GBR,Shooting,0,0,1,1,11,0.084491286,0
+GBR,Skateboarding,0,0,1,1,2,0.079981078,0
+GBR,Sport Climbing,0,0,0,0,1,0,0
+GBR,Swimming,13,12,1,26,80,1.782842364,0
+GBR,Table Tennis,0,0,0,0,10,0.007855211,0
+GBR,Taekwondo,2,2,2,6,9,0.4829276,0
+GBR,Tennis,0,0,0,0,11,0.005602063,0
+GBR,Trampoline Gymnastics,0,0,1,1,2,0.079981078,0
+GBR,Triathlon,5,3,1,9,12,0.571385302,0
+GBR,Water Polo,3,0,0,3,4,0.229594042,0
+GBR,Weightlifting,0,1,0,1,5,0.08726618,0
+GBS,Athletics,0,0,0,0,1,0,0
+GBS,Judo,0,0,0,0,1,0,0
+GBS,Wrestling,0,0,0,0,5,0.003368633,0
+GEO,Athletics,0,0,0,0,7,0.002250696,0
+GEO,Boxing,0,0,0,0,3,0,0
+GEO,Fencing,0,0,0,0,2,0.001125348,0
+GEO,Judo,2,3,1,6,12,0.412415749,0
+GEO,Karate,0,0,0,0,1,0,0
+GEO,Rhythmic Gymnastics,0,0,0,0,2,0.001125348,0
+GEO,Shooting,0,0,0,0,2,0.001125348,0
+GEO,Swimming,0,0,0,0,2,0,0
+GEO,Tennis,0,0,0,0,2,0.001125348,0
+GEO,Weightlifting,2,0,1,3,5,0.23730165,0
+GEO,Wrestling,0,2,1,3,11,0.211398415,0
+GEQ,Athletics,0,0,0,0,2,0,0
+GEQ,Swimming,0,0,0,0,1,0,0
+GER,Archery,0,1,3,4,10,0.28414991,0
+GER,Artistic Gymnastics,0,1,0,1,56,0.132344252,0
+GER,Athletics,1,2,1,4,135,0.381186036,0
+GER,Badminton,0,0,0,0,6,0.001125348,0
+GER,Basketball,0,0,0,0,12,0,0
+GER,Beach Volleyball,1,0,0,1,10,0.081776285,0
+GER,Boxing,0,0,0,0,4,0,0
+GER,Canoe Slalom,1,0,3,4,4,0.320525191,0
+GER,Canoe Sprint,4,2,2,8,25,0.661338668,0
+GER,Cycling,0,2,2,4,28,0.277930022,0
+GER,Cycling BMX Freestyle,0,0,0,0,1,0,0
+GER,Cycling Mountain Bike,0,0,0,0,3,0,0
+GER,Cycling Road,0,0,0,0,8,0.002250696,0
+GER,Cycling Track,3,3,0,6,23,0.505867607,0
+GER,Diving,0,1,5,6,26,0.427337313,0
+GER,Equestrian,6,1,0,7,23,0.531165404,0
+GER,Fencing,1,0,2,3,30,0.21182752,0
+GER,Football,0,0,0,0,19,0,0
+GER,Golf,0,0,0,0,5,0.001125348,0
+GER,Handball,0,0,6,6,22,0.481064712,0
+GER,Hockey,1,0,7,8,44,0.600159374,0
+GER,Judo,0,1,13,14,28,1.07515815,0
+GER,Karate,0,0,0,0,4,0,0
+GER,Marathon Swimming,1,0,0,1,4,0.080581957,0
+GER,Modern Pentathlon,0,0,0,0,7,0.003373572,0
+GER,Rowing,6,18,0,24,41,1.842818102,0
+GER,Sailing,0,2,5,7,13,0.565545331,0
+GER,Shooting,1,1,1,3,20,0.209953044,0
+GER,Skateboarding,0,0,0,0,2,0,0
+GER,Sport Climbing,0,0,0,0,2,0,0
+GER,Surfing,0,0,0,0,1,0,0
+GER,Swimming,0,0,1,1,77,0.13495928,0
+GER,Table Tennis,0,8,6,14,33,0.910176206,0
+GER,Taekwondo,0,0,0,0,1,0,0
+GER,Tennis,1,0,0,1,19,0.090704505,0
+GER,Triathlon,0,0,0,0,9,0.005624268,0
+GER,Weightlifting,0,0,0,0,4,0,0
+GER,Wrestling,1,0,2,3,8,0.241669461,0
+GHA,Athletics,0,0,0,0,10,0.003376044,0
+GHA,Boxing,0,0,1,1,3,0.079981078,0
+GHA,Judo,0,0,0,0,1,0,0
+GHA,Swimming,0,0,0,0,2,0,0
+GHA,Weightlifting,0,0,0,0,2,0.001125348,0
+GRE,Archery,0,0,0,0,7,0.006715091,0
+GRE,Artistic Gymnastics,0,0,1,1,1,0.079981078,0
+GRE,Artistic Swimming,0,0,0,0,10,0.002250696,0
+GRE,Athletics,1,0,0,1,30,0.090714375,0
+GRE,Cycling,0,0,0,0,1,0,0
+GRE,Cycling Road,0,0,0,0,1,0,0
+GRE,Cycling Track,0,0,0,0,1,0,0
+GRE,Fencing,0,0,0,0,1,0,0
+GRE,Judo,0,0,0,0,2,0,0
+GRE,Marathon Swimming,0,0,0,0,1,0,0
+GRE,Rowing,1,0,0,1,5,0.080591187,0
+GRE,Sailing,0,0,2,2,10,0.159979788,0
+GRE,Shooting,1,0,1,2,6,0.121370714,0
+GRE,Swimming,0,0,0,0,30,0.021332238,0
+GRE,Table Tennis,0,0,0,0,7,0.006715091,0
+GRE,Taekwondo,0,0,0,0,1,0,0
+GRE,Tennis,0,0,0,0,4,0.002250696,0
+GRE,Water Polo,0,13,0,13,20,1.119915564,0
+GRE,Weightlifting,0,0,0,0,2,0.001125348,0
+GRE,Wrestling,0,0,0,0,4,0.002248224,0
+GRN,Athletics,1,1,1,3,7,0.160668888,0
+GRN,Swimming,0,0,0,0,2,0,0
+GUA,Athletics,0,0,0,0,8,0,0
+GUA,Badminton,0,0,0,0,2,0,0
+GUA,Cycling Road,0,0,0,0,1,0,0
+GUA,Judo,0,0,0,0,1,0,0
+GUA,Modern Pentathlon,0,0,0,0,1,0,0
+GUA,Rowing,0,0,0,0,2,0,0
+GUA,Sailing,0,0,0,0,2,0,0
+GUA,Shooting,0,0,0,0,3,0,0
+GUA,Swimming,0,0,0,0,2,0,0
+GUA,Weightlifting,0,0,0,0,1,0,0
+GUI,Athletics,0,0,0,0,1,0,0
+GUI,Judo,0,0,0,0,2,0,0
+GUI,Swimming,0,0,0,0,1,0,0
+GUI,Wrestling,0,0,0,0,1,0,0
+GUM,Athletics,0,0,0,0,1,0,0
+GUM,Judo,0,0,0,0,1,0,0
+GUM,Swimming,0,0,0,0,2,0,0
+GUM,Wrestling,0,0,0,0,1,0,0
+GUY,Athletics,0,0,0,0,4,0.001125348,0
+GUY,Boxing,0,0,0,0,2,0,0
+GUY,Swimming,0,0,0,0,2,0,0
+GUY,Table Tennis,0,0,0,0,1,0,0
+HAI,Athletics,0,0,0,0,2,0.001125348,0
+HAI,Boxing,0,0,0,0,1,0,0
+HAI,Judo,0,0,0,0,1,0,0
+HAI,Swimming,0,0,0,0,2,0,0
+HAI,Taekwondo,0,0,0,0,1,0,0
+HKG,Artistic Gymnastics,0,0,0,0,1,0,0
+HKG,Athletics,0,0,0,0,2,0,0
+HKG,Badminton,0,0,0,0,4,0,0
+HKG,Cycling Road,0,0,0,0,1,0,0
+HKG,Cycling Track,0,0,1,1,8,0.08224059,0
+HKG,Equestrian,0,0,0,0,1,0,0
+HKG,Fencing,1,0,0,1,14,0.086217927,0
+HKG,Golf,0,0,0,0,1,0,0
+HKG,Hockey,0,0,0,0,1,0,0
+HKG,Karate,0,0,1,1,1,0.079981078,0
+HKG,Marathon Swimming,0,0,0,0,1,0,0
+HKG,Rowing,0,0,0,0,1,0,0
+HKG,Sailing,0,0,0,0,3,0,0
+HKG,Swimming,0,2,0,2,14,0.168237591,0
+HKG,Table Tennis,0,0,3,3,12,0.243356456,0
+HKG,Triathlon,0,0,0,0,1,0,0
+HON,Athletics,0,0,0,0,1,0,0
+HON,Football,0,0,0,0,22,0.001125348,0
+HON,Judo,0,0,0,0,1,0,0
+HON,Swimming,0,0,0,0,3,0.001125348,0
+HON,Taekwondo,0,0,0,0,1,0,0
+HUN,Archery,0,0,0,0,1,0,0
+HUN,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+HUN,Athletics,0,0,0,0,18,0,0
+HUN,Badminton,0,0,0,0,2,0,0
+HUN,Boxing,0,0,0,0,1,0,0
+HUN,Canoe Sprint,6,2,2,10,32,0.701559467,0
+HUN,Cycling Mountain Bike,0,0,0,0,2,0,0
+HUN,Cycling Road,0,0,0,0,1,0,0
+HUN,Fencing,1,1,4,6,31,0.463096606,0
+HUN,Handball,0,0,0,0,18,0.001125348,0
+HUN,Judo,0,0,1,1,9,0.082229302,0
+HUN,Karate,0,0,1,1,1,0.079981078,0
+HUN,Marathon Swimming,0,1,0,1,2,0.086140832,0
+HUN,Modern Pentathlon,0,0,1,1,4,0.079981078,0
+HUN,Rhythmic Gymnastics,0,0,0,0,1,0,0
+HUN,Rowing,0,0,0,0,1,0,0
+HUN,Sailing,0,1,0,1,8,0.087328881,0
+HUN,Shooting,0,0,0,0,10,0.006747144,0
+HUN,Swimming,1,1,0,2,77,0.173496606,0
+HUN,Table Tennis,0,0,0,0,8,0.002250696,0
+HUN,Taekwondo,0,0,0,0,1,0,0
+HUN,Triathlon,0,0,0,0,6,0.003376044,0
+HUN,Water Polo,0,0,26,26,32,2.07960053,0
+HUN,Weightlifting,0,0,0,0,1,0,0
+HUN,Wrestling,1,1,0,2,9,0.170091422,0
+INA,Archery,0,0,0,0,9,0.005624268,0
+INA,Athletics,0,0,0,0,2,0,0
+INA,Badminton,3,0,1,4,18,0.325164977,0
+INA,Rowing,0,0,0,0,2,0,0
+INA,Shooting,0,0,0,0,2,0.001125348,0
+INA,Surfing,0,0,0,0,1,0,0
+INA,Swimming,0,0,0,0,3,0.001125348,0
+INA,Weightlifting,0,1,2,3,5,0.246102988,0
+IND,Archery,0,0,0,0,18,0.015700574,0
+IND,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+IND,Athletics,1,0,0,1,29,0.085080877,0
+IND,Badminton,0,0,1,1,4,0.079981078,0
+IND,Boxing,0,0,1,1,9,0.079981078,0
+IND,Equestrian,0,0,0,0,1,0,0
+IND,Fencing,0,0,0,0,1,0,0
+IND,Golf,0,0,0,0,6,0.002250696,0
+IND,Hockey,0,0,18,18,45,1.444218078,0
+IND,Judo,0,0,0,0,1,0,0
+IND,Rowing,0,0,0,0,2,0,0
+IND,Sailing,0,0,0,0,4,0,0
+IND,Shooting,0,0,0,0,28,0.014619641,0
+IND,Swimming,0,0,0,0,6,0.003368633,0
+IND,Table Tennis,0,0,0,0,7,0.003373572,0
+IND,Tennis,0,0,0,0,9,0.006715091,0
+IND,Weightlifting,0,1,0,1,1,0.086140832,0
+IND,Wrestling,0,1,1,2,7,0.16612191,0
+IOA,Athletics,0,0,0,0,1,0,0
+IOA,Swimming,0,0,0,0,1,0,0
+IRI,Archery,0,0,0,0,1,0,0
+IRI,Athletics,0,0,0,0,4,0.001125348,0
+IRI,Badminton,0,0,0,0,1,0,0
+IRI,Basketball,0,0,0,0,13,0.001125348,0
+IRI,Boxing,0,0,0,0,2,0,0
+IRI,Canoe Sprint,0,0,0,0,1,0,0
+IRI,Cycling Road,0,0,0,0,2,0.001125348,0
+IRI,Fencing,0,0,0,0,7,0.003376044,0
+IRI,Judo,0,0,0,0,1,0,0
+IRI,Karate,1,0,0,1,3,0.080581957,0
+IRI,Rowing,0,0,0,0,1,0,0
+IRI,Shooting,1,0,0,1,15,0.089581616,0
+IRI,Swimming,0,0,0,0,1,0,0
+IRI,Table Tennis,0,0,0,0,2,0.001125348,0
+IRI,Taekwondo,0,0,0,0,3,0,0
+IRI,Volleyball,0,0,0,0,14,0.002250696,0
+IRI,Weightlifting,0,1,0,1,3,0.08726618,0
+IRI,Wrestling,2,1,2,5,12,0.365863296,0
+IRL,Artistic Gymnastics,0,0,0,0,6,0.004486578,0
+IRL,Athletics,0,0,0,0,41,0.014622108,0
+IRL,Badminton,0,0,0,0,1,0,0
+IRL,Boxing,1,0,1,2,7,0.161688383,0
+IRL,Canoe Slalom,0,0,0,0,1,0,0
+IRL,Cycling,0,0,0,0,2,0.001125348,0
+IRL,Cycling Road,0,0,0,0,3,0.001125348,0
+IRL,Cycling Track,0,0,0,0,10,0.004501392,0
+IRL,Diving,0,0,0,0,3,0.001125348,0
+IRL,Equestrian,0,0,0,0,16,0.007877436,0
+IRL,Golf,0,0,0,0,6,0.002250696,0
+IRL,Hockey,0,0,0,0,17,0,0
+IRL,Judo,0,0,0,0,1,0,0
+IRL,Modern Pentathlon,0,0,0,0,3,0.002248224,0
+IRL,Rowing,2,1,4,7,14,0.525825452,0
+IRL,Rugby Sevens,0,0,0,0,13,0,0
+IRL,Sailing,0,1,0,1,5,0.086170324,0
+IRL,Shooting,0,0,0,0,5,0.004486578,0
+IRL,Swimming,0,0,0,0,19,0.011238666,0
+IRL,Taekwondo,0,0,0,0,1,0,0
+IRL,Triathlon,0,0,0,0,2,0,0
+IRQ,Athletics,0,0,0,0,1,0,0
+IRQ,Rowing,0,0,0,0,1,0,0
+IRQ,Shooting,0,0,0,0,1,0,0
+ISL,Athletics,0,0,0,0,1,0,0
+ISL,Shooting,0,0,0,0,1,0,0
+ISL,Swimming,0,0,0,0,3,0.001125348,0
+ISR,Archery,0,0,0,0,1,0,0
+ISR,Artistic Gymnastics,1,0,0,1,8,0.085077765,0
+ISR,Artistic Swimming,0,0,0,0,2,0,0
+ISR,Athletics,0,0,0,0,11,0.002250696,0
+ISR,Badminton,0,0,0,0,4,0.002248224,0
+ISR,Baseball/Softball,0,0,0,0,24,0,0
+ISR,Cycling,0,0,0,0,1,0,0
+ISR,Cycling Road,0,0,0,0,2,0.001125348,0
+ISR,Equestrian,0,0,0,0,7,0.003376044,0
+ISR,Judo,0,0,12,12,27,0.953267195,0
+ISR,Marathon Swimming,0,0,0,0,1,0,0
+ISR,Rhythmic Gymnastics,1,0,0,1,7,0.080581957,0
+ISR,Sailing,0,0,0,0,5,0,0
+ISR,Shooting,0,0,0,0,5,0.004486578,0
+ISR,Surfing,0,0,0,0,1,0,0
+ISR,Swimming,0,0,0,0,32,0.022435403,0
+ISR,Taekwondo,0,0,1,1,1,0.079981078,0
+ISR,Triathlon,0,0,0,0,2,0,0
+ISR,Weightlifting,0,0,0,0,1,0,0
+ISV,Archery,0,0,0,0,1,0,0
+ISV,Athletics,0,0,0,0,2,0.001125348,0
+ISV,Swimming,0,0,0,0,3,0.001125348,0
+ITA,3x3 Basketball,0,0,0,0,4,0,0
+ITA,Archery,1,2,1,4,17,0.278520406,0
+ITA,Artistic Gymnastics,0,1,0,1,34,0.110953425,0
+ITA,Artistic Swimming,0,0,0,0,10,0.002250696,0
+ITA,Athletics,10,0,0,10,102,0.824537509,0
+ITA,Baseball/Softball,0,0,0,0,15,0,0
+ITA,Basketball,0,0,0,0,12,0,0
+ITA,Beach Volleyball,0,2,0,2,12,0.174588872,0
+ITA,Boxing,0,0,1,1,5,0.079989894,0
+ITA,Canoe Slalom,0,0,0,0,3,0,0
+ITA,Canoe Sprint,0,1,0,1,6,0.088391528,0
+ITA,Cycling,1,0,0,1,18,0.08735639,0
+ITA,Cycling BMX Racing,0,0,0,0,1,0,0
+ITA,Cycling Mountain Bike,0,0,0,0,1,0,0
+ITA,Cycling Road,0,0,1,1,9,0.081115242,0
+ITA,Cycling Track,1,0,0,1,12,0.086206225,0
+ITA,Diving,0,0,0,0,11,0.005619329,0
+ITA,Equestrian,0,0,0,0,9,0.003376044,0
+ITA,Fencing,4,14,11,29,75,1.980913509,0
+ITA,Golf,0,0,0,0,5,0.001125348,0
+ITA,Judo,1,1,2,4,18,0.289253575,0
+ITA,Karate,1,0,1,2,5,0.160563035,0
+ITA,Marathon Swimming,0,0,1,1,3,0.079981078,0
+ITA,Modern Pentathlon,0,0,0,0,3,0.001125348,0
+ITA,Rhythmic Gymnastics,0,0,5,5,9,0.399923022,0
+ITA,Rowing,2,1,10,13,36,1.025079109,0
+ITA,Sailing,2,0,0,2,13,0.164549188,0
+ITA,Shooting,4,2,0,6,28,0.418704907,0
+ITA,Skateboarding,0,0,0,0,3,0,0
+ITA,Sport Climbing,0,0,0,0,3,0,0
+ITA,Surfing,0,0,0,0,1,0,0
+ITA,Swimming,1,5,9,15,102,1.115044423,0
+ITA,Table Tennis,0,0,0,0,1,0,0
+ITA,Taekwondo,1,0,0,1,2,0.080581957,0
+ITA,Tennis,0,0,0,0,20,0.01568829,0
+ITA,Triathlon,0,0,0,0,10,0.00562674,0
+ITA,Volleyball,0,5,1,6,33,0.47099648,0
+ITA,Water Polo,0,1,3,4,16,0.283002544,0
+ITA,Weightlifting,0,1,2,3,6,0.246111576,0
+ITA,Wrestling,0,0,1,1,2,0.079981078,0
+IVB,Athletics,0,0,0,0,2,0,0
+IVB,Swimming,0,0,0,0,2,0.001125348,0
+JAM,Artistic Gymnastics,0,0,0,0,1,0,0
+JAM,Athletics,12,5,13,30,101,2.141142253,0
+JAM,Boxing,0,0,0,0,1,0,0
+JAM,Diving,0,0,0,0,2,0.001125348,0
+JAM,Judo,0,0,0,0,1,0,0
+JAM,Swimming,0,0,0,0,10,0.008951016,0
+JOR,Athletics,0,0,0,0,1,0,0
+JOR,Boxing,0,0,0,0,6,0.001125348,0
+JOR,Equestrian,0,0,0,0,1,0,0
+JOR,Judo,0,0,0,0,1,0,0
+JOR,Karate,0,0,1,1,1,0.079981078,0
+JOR,Shooting,0,0,0,0,1,0,0
+JOR,Swimming,0,0,0,0,5,0.003373572,0
+JOR,Taekwondo,0,1,0,1,2,0.086140832,0
+JPN,3x3 Basketball,0,0,0,0,8,0,1
+JPN,Archery,0,1,5,6,22,0.426118496,1
+JPN,Artistic Gymnastics,2,4,2,8,64,0.589219983,1
+JPN,Artistic Swimming,0,0,0,0,10,0.002250696,1
+JPN,Athletics,0,4,1,5,94,0.441720867,1
+JPN,Badminton,0,0,3,3,17,0.242211562,1
+JPN,Baseball,0,0,0,0,1,0,1
+JPN,Baseball/Softball,38,0,0,38,38,3.062114366,1
+JPN,Basketball,0,12,0,12,28,1.033732924,1
+JPN,Beach Volleyball,0,0,0,0,6,0.002248224,1
+JPN,Boxing,1,0,2,3,7,0.241669461,1
+JPN,Canoe Slalom,0,0,0,0,4,0,1
+JPN,Canoe Sprint,0,0,0,0,11,0.003376044,1
+JPN,Cycling,0,0,0,0,10,0.00449892,1
+JPN,Cycling BMX Freestyle,0,0,0,0,2,0,1
+JPN,Cycling BMX Racing,0,0,0,0,1,0,1
+JPN,Cycling Mountain Bike,0,0,0,0,1,0,1
+JPN,Cycling Road,0,0,0,0,2,0,1
+JPN,Cycling Track,0,1,0,1,8,0.088400116,1
+JPN,Diving,0,0,0,0,22,0.01232706,1
+JPN,Equestrian,0,0,0,0,23,0.012378828,1
+JPN,Fencing,4,0,0,4,39,0.338130916,1
+JPN,Football,0,2,0,2,50,0.17679776,1
+JPN,Golf,0,1,0,1,4,0.086140832,1
+JPN,Handball,0,0,0,0,31,0,1
+JPN,Hockey,0,0,0,0,44,0.00899784,1
+JPN,Judo,10,14,3,27,31,1.768334476,1
+JPN,Karate,1,1,1,3,8,0.246703867,1
+JPN,Marathon Swimming,0,0,0,0,2,0,1
+JPN,Modern Pentathlon,0,0,0,0,4,0.001125348,1
+JPN,Rhythmic Gymnastics,0,0,0,0,11,0.00449892,1
+JPN,Rowing,0,0,0,0,5,0.002250696,1
+JPN,Rugby Sevens,0,0,0,0,32,0.006752088,1
+JPN,Sailing,0,0,0,0,23,0.008992901,1
+JPN,Shooting,0,0,0,0,31,0.021342108,1
+JPN,Skateboarding,3,1,1,5,10,0.407867781,1
+JPN,Sport Climbing,0,1,1,2,4,0.16612191,1
+JPN,Surfing,0,1,1,2,4,0.16612191,1
+JPN,Swimming,3,4,4,11,98,0.778400394,1
+JPN,Table Tennis,2,6,7,15,26,0.909322581,1
+JPN,Taekwondo,0,0,0,0,6,0.002248224,1
+JPN,Tennis,0,0,1,1,26,0.091403086,1
+JPN,Trampoline Gymnastics,0,0,0,0,4,0,1
+JPN,Triathlon,0,0,0,0,8,0.004501392,1
+JPN,Volleyball,0,0,1,1,31,0.084548513,1
+JPN,Water Polo,0,0,0,0,32,0.006752088,1
+JPN,Weightlifting,0,1,2,3,14,0.206433648,1
+JPN,Wrestling,7,1,1,9,16,0.728609721,1
+KAZ,Archery,0,0,0,0,7,0.00449892,0
+KAZ,Artistic Gymnastics,0,0,0,0,7,0.006715091,0
+KAZ,Artistic Swimming,0,0,0,0,2,0,0
+KAZ,Athletics,0,0,0,0,10,0,0
+KAZ,Boxing,0,0,2,2,9,0.159962156,0
+KAZ,Canoe Slalom,0,0,0,0,2,0,0
+KAZ,Canoe Sprint,0,0,0,0,8,0.003376044,0
+KAZ,Cycling,0,0,0,0,1,0,0
+KAZ,Cycling Road,0,0,0,0,4,0.001125348,0
+KAZ,Cycling Track,0,0,0,0,2,0.001125348,0
+KAZ,Fencing,0,0,0,0,2,0,0
+KAZ,Judo,0,1,1,2,10,0.126382931,0
+KAZ,Karate,0,0,2,2,5,0.159962156,0
+KAZ,Marathon Swimming,0,0,0,0,1,0,0
+KAZ,Modern Pentathlon,0,0,0,0,4,0.002248224,0
+KAZ,Rhythmic Gymnastics,0,0,0,0,1,0,0
+KAZ,Rowing,0,0,0,0,3,0.002248224,0
+KAZ,Shooting,0,0,0,0,4,0.001125348,0
+KAZ,Sport Climbing,0,0,0,0,1,0,0
+KAZ,Swimming,0,0,0,0,3,0.001125348,0
+KAZ,Table Tennis,0,0,0,0,2,0,0
+KAZ,Taekwondo,0,0,0,0,3,0.001125348,0
+KAZ,Tennis,0,0,0,0,15,0.008978107,0
+KAZ,Water Polo,0,0,0,0,16,0.003376044,0
+KAZ,Weightlifting,1,0,2,3,3,0.200184418,0
+KAZ,Wrestling,0,0,2,2,14,0.161105136,0
+KEN,Athletics,5,8,3,16,52,1.218164624,0
+KEN,Beach Volleyball,0,0,0,0,2,0,0
+KEN,Boxing,0,0,0,0,4,0,0
+KEN,Rugby Sevens,0,0,0,0,29,0.003376044,0
+KEN,Swimming,0,0,0,0,2,0,0
+KEN,Taekwondo,0,0,0,0,1,0,0
+KEN,Volleyball,0,0,0,0,12,0,0
+KGZ,Athletics,0,0,0,0,3,0.001125348,0
+KGZ,Fencing,0,0,0,0,1,0,0
+KGZ,Judo,0,0,0,0,1,0,0
+KGZ,Shooting,0,0,0,0,1,0,0
+KGZ,Swimming,0,0,0,0,3,0.002248224,0
+KGZ,Weightlifting,0,0,0,0,1,0,0
+KGZ,Wrestling,0,2,1,3,9,0.252262742,0
+KIR,Athletics,0,0,0,0,1,0,0
+KIR,Judo,0,0,0,0,1,0,0
+KIR,Weightlifting,0,0,0,0,1,0,0
+KOR,Archery,9,0,0,9,14,0.709277533,0
+KOR,Artistic Gymnastics,1,0,1,2,42,0.19535613,0
+KOR,Athletics,0,0,0,0,7,0,0
+KOR,Badminton,0,0,2,2,11,0.161087504,0
+KOR,Baseball/Softball,0,0,0,0,24,0,0
+KOR,Basketball,0,0,0,0,12,0,0
+KOR,Boxing,0,0,0,0,2,0,0
+KOR,Canoe Sprint,0,0,0,0,1,0,0
+KOR,Cycling Road,0,0,0,0,1,0,0
+KOR,Cycling Track,0,0,0,0,2,0.001125348,0
+KOR,Diving,0,0,0,0,8,0.003373572,0
+KOR,Equestrian,0,0,0,0,1,0,0
+KOR,Fencing,4,4,9,17,30,1.346458283,0
+KOR,Football,0,0,0,0,22,0,0
+KOR,Golf,0,0,0,0,6,0,0
+KOR,Handball,0,0,0,0,15,0,0
+KOR,Judo,0,1,2,3,26,0.25625734,0
+KOR,Karate,0,0,0,0,1,0,0
+KOR,Modern Pentathlon,0,0,1,1,4,0.079981078,0
+KOR,Rowing,0,0,0,0,1,0,0
+KOR,Rugby Sevens,0,0,0,0,12,0,0
+KOR,Sailing,0,0,0,0,4,0,0
+KOR,Shooting,0,1,0,1,24,0.096266492,0
+KOR,Sport Climbing,0,0,0,0,2,0,0
+KOR,Swimming,0,0,0,0,25,0.014614702,0
+KOR,Table Tennis,0,0,0,0,12,0.006749616,0
+KOR,Taekwondo,0,1,2,3,6,0.246102988,0
+KOR,Tennis,0,0,0,0,1,0,0
+KOR,Volleyball,0,0,0,0,12,0,0
+KOR,Weightlifting,0,0,0,0,7,0,0
+KOR,Wrestling,0,0,0,0,2,0,0
+KOS,Athletics,0,0,0,0,2,0.001125348,0
+KOS,Boxing,0,0,0,0,1,0,0
+KOS,Judo,2,0,0,2,5,0.161173144,0
+KOS,Shooting,0,0,0,0,1,0,0
+KOS,Swimming,0,0,0,0,2,0,0
+KOS,Wrestling,0,0,0,0,1,0,0
+KSA,Athletics,0,0,0,0,2,0,0
+KSA,Football,0,0,0,0,22,0,0
+KSA,Judo,0,0,0,0,3,0.001125348,0
+KSA,Karate,0,1,0,1,1,0.086140832,0
+KSA,Rowing,0,0,0,0,1,0,0
+KSA,Shooting,0,0,0,0,1,0,0
+KSA,Swimming,0,0,0,0,1,0,0
+KSA,Table Tennis,0,0,0,0,1,0,0
+KSA,Weightlifting,0,0,0,0,2,0,0
+KUW,Athletics,0,0,0,0,2,0,0
+KUW,Karate,0,0,0,0,1,0,0
+KUW,Rowing,0,0,0,0,1,0,0
+KUW,Shooting,0,0,1,1,4,0.079981078,0
+KUW,Swimming,0,0,0,0,1,0,0
+LAO,Athletics,0,0,0,0,1,0,0
+LAO,Judo,0,0,0,0,2,0.001125348,0
+LAO,Swimming,0,0,0,0,3,0.001125348,0
+LAT,3x3 Basketball,4,0,0,4,4,0.322327828,0
+LAT,Athletics,0,0,0,0,12,0.004496448,0
+LAT,Beach Volleyball,0,0,0,0,4,0,0
+LAT,Canoe Sprint,0,0,0,0,1,0,0
+LAT,Cycling BMX Racing,0,0,0,0,2,0,0
+LAT,Cycling Road,0,0,0,0,3,0.001125348,0
+LAT,Equestrian,0,0,0,0,1,0,0
+LAT,Judo,0,0,0,0,1,0,0
+LAT,Karate,0,0,0,0,1,0,0
+LAT,Modern Pentathlon,0,0,0,0,1,0,0
+LAT,Shooting,0,0,0,0,2,0.001125348,0
+LAT,Swimming,0,0,0,0,3,0.001125348,0
+LAT,Tennis,0,0,0,0,4,0.002250696,0
+LAT,Weightlifting,0,0,1,1,2,0.079981078,0
+LAT,Wrestling,0,0,0,0,3,0.002248224,0
+LBA,Athletics,0,0,0,0,1,0,0
+LBA,Judo,0,0,0,0,1,0,0
+LBA,Rowing,0,0,0,0,1,0,0
+LBA,Swimming,0,0,0,0,1,0,0
+LBN,Athletics,0,0,0,0,1,0,0
+LBN,Judo,0,0,0,0,1,0,0
+LBN,Shooting,0,0,0,0,1,0,0
+LBN,Swimming,0,0,0,0,2,0,0
+LBN,Weightlifting,0,0,0,0,1,0,0
+LBR,Athletics,0,0,0,0,6,0.003368633,0
+LCA,Athletics,0,0,0,0,4,0.003368633,0
+LCA,Sailing,0,0,0,0,2,0,0
+LCA,Swimming,0,0,0,0,2,0,0
+LES,Athletics,0,0,0,0,2,0,0
+LIB,Wrestling,0,0,0,0,1,0,0
+LIE,Artistic Swimming,0,0,0,0,2,0,0
+LIE,Judo,0,0,0,0,1,0,0
+LIE,Swimming,0,0,0,0,10,0.008963315,0
+LTU,Artistic Gymnastics,0,0,0,0,7,0.006715091,0
+LTU,Athletics,0,0,0,0,11,0,0
+LTU,Canoe Sprint,0,0,0,0,1,0,0
+LTU,Cycling Road,0,0,0,0,2,0,0
+LTU,Cycling Track,0,0,0,0,7,0.004496448,0
+LTU,Judo,0,0,0,0,1,0,0
+LTU,Modern Pentathlon,0,1,0,1,5,0.088389056,0
+LTU,Rowing,0,1,0,1,12,0.087295672,0
+LTU,Sailing,0,0,0,0,4,0.002248224,0
+LTU,Shooting,0,0,0,0,2,0.001125348,0
+LTU,Swimming,0,0,0,0,21,0.016825929,0
+LTU,Weightlifting,0,0,0,0,1,0,0
+LTU,Wrestling,0,0,0,0,1,0,0
+LUX,Archery,0,0,0,0,3,0.002248224,0
+LUX,Athletics,0,0,0,0,2,0,0
+LUX,Cycling,0,0,0,0,3,0.002248224,0
+LUX,Cycling Road,0,0,0,0,2,0,0
+LUX,Equestrian,0,0,0,0,1,0,0
+LUX,Swimming,0,0,0,0,3,0.001125348,0
+LUX,Table Tennis,0,0,0,0,2,0,0
+LUX,Triathlon,0,0,0,0,1,0,0
+MAD,Athletics,0,0,0,0,1,0,0
+MAD,Judo,0,0,0,0,1,0,0
+MAD,Swimming,0,0,0,0,2,0,0
+MAD,Weightlifting,0,0,0,0,2,0,0
+MAR,Athletics,1,0,0,1,20,0.086208044,0
+MAR,Beach Volleyball,0,0,0,0,2,0,0
+MAR,Boxing,0,0,0,0,7,0.001125348,0
+MAR,Canoe Slalom,0,0,0,0,2,0,0
+MAR,Cycling Road,0,0,0,0,1,0,0
+MAR,Equestrian,0,0,0,0,8,0.003376044,0
+MAR,Fencing,0,0,0,0,1,0,0
+MAR,Golf,0,0,0,0,2,0.001125348,0
+MAR,Judo,0,0,0,0,3,0.001125348,0
+MAR,Karate,0,0,0,0,1,0,0
+MAR,Rowing,0,0,0,0,1,0,0
+MAR,Shooting,0,0,0,0,1,0,0
+MAR,Surfing,0,0,0,0,1,0,0
+MAR,Swimming,0,0,0,0,2,0,0
+MAR,Taekwondo,0,0,0,0,3,0,0
+MAR,Triathlon,0,0,0,0,1,0,0
+MAR,Weightlifting,0,0,0,0,1,0,0
+MAR,Wrestling,0,0,0,0,1,0,0
+MAS,Archery,0,0,0,0,4,0.002250696,0
+MAS,Artistic Gymnastics,0,0,0,0,12,0.011201669,0
+MAS,Athletics,0,0,0,0,2,0,0
+MAS,Badminton,0,0,2,2,8,0.159962156,0
+MAS,Cycling,0,0,0,0,1,0,0
+MAS,Cycling Track,0,1,0,1,4,0.087274768,0
+MAS,Diving,0,1,1,2,12,0.123224504,0
+MAS,Golf,0,0,0,0,4,0.002250696,0
+MAS,Sailing,0,0,0,0,4,0,0
+MAS,Shooting,0,0,0,0,1,0,0
+MAS,Swimming,0,0,0,0,7,0.005611926,0
+MAW,Archery,0,0,0,0,2,0.001125348,0
+MAW,Athletics,0,0,0,0,1,0,0
+MAW,Judo,0,0,0,0,1,0,0
+MAW,Swimming,0,0,0,0,2,0,0
+MDA,Archery,0,0,0,0,6,0.004496448,0
+MDA,Athletics,0,0,0,0,8,0.002248224,0
+MDA,Canoe Sprint,0,0,1,1,5,0.082231774,0
+MDA,Judo,0,0,0,0,3,0,0
+MDA,Shooting,0,0,0,0,1,0,0
+MDA,Swimming,0,0,0,0,5,0.003373572,0
+MDA,Weightlifting,0,0,0,0,2,0,0
+MDA,Wrestling,0,0,0,0,2,0,0
+MDV,Athletics,0,0,0,0,2,0.001125348,0
+MDV,Badminton,0,0,0,0,1,0,0
+MDV,Swimming,0,0,0,0,2,0,0
+MEX,Archery,0,0,2,2,9,0.162252502,0
+MEX,Artistic Gymnastics,0,0,0,0,12,0.011201669,0
+MEX,Artistic Swimming,0,0,0,0,2,0,0
+MEX,Athletics,0,0,0,0,19,0.001125348,0
+MEX,Badminton,0,0,0,0,2,0,0
+MEX,Baseball/Softball,0,0,0,0,36,0,0
+MEX,Basketball,0,0,0,0,2,0.001125348,0
+MEX,Beach Volleyball,0,0,0,0,2,0,0
+MEX,Boxing,0,0,0,0,3,0,0
+MEX,Canoe Slalom,0,0,0,0,1,0,0
+MEX,Cycling Mountain Bike,0,0,0,0,2,0,0
+MEX,Cycling Road,0,0,0,0,2,0,0
+MEX,Cycling Track,0,0,0,0,6,0.004496448,0
+MEX,Diving,0,0,2,2,16,0.159979788,0
+MEX,Equestrian,0,0,0,0,7,0.003376044,0
+MEX,Fencing,0,0,0,0,1,0,0
+MEX,Football,0,0,20,20,20,1.59962156,0
+MEX,Golf,0,0,0,0,4,0,0
+MEX,Judo,0,0,0,0,1,0,0
+MEX,Marathon Swimming,0,0,0,0,1,0,0
+MEX,Modern Pentathlon,0,0,0,0,4,0,0
+MEX,Rhythmic Gymnastics,0,0,0,0,1,0,0
+MEX,Rowing,0,0,0,0,1,0,0
+MEX,Sailing,0,0,0,0,4,0,0
+MEX,Shooting,0,0,0,0,7,0.002250696,0
+MEX,Swimming,0,0,0,0,4,0.001125348,0
+MEX,Taekwondo,0,0,0,0,2,0,0
+MEX,Tennis,0,0,0,0,3,0.001125348,0
+MEX,Trampoline Gymnastics,0,0,0,0,1,0,0
+MEX,Triathlon,0,0,0,0,8,0.004501392,0
+MEX,Weightlifting,0,0,1,1,4,0.079981078,0
+MEX,Wrestling,0,0,0,0,2,0,0
+MGL,3x3 Basketball,0,0,0,0,4,0,0
+MGL,Archery,0,0,0,0,4,0.002250696,0
+MGL,Athletics,0,0,0,0,3,0,0
+MGL,Boxing,0,0,0,0,3,0,0
+MGL,Judo,0,0,2,2,20,0.168973756,0
+MGL,Shooting,0,0,0,0,10,0.006747144,0
+MGL,Swimming,0,0,0,0,2,0,0
+MGL,Table Tennis,0,0,0,0,2,0,0
+MGL,Weightlifting,0,0,0,0,2,0,0
+MGL,Wrestling,0,0,1,1,9,0.079981078,0
+MHL,Swimming,0,0,0,0,3,0.001125348,0
+MKD,Athletics,0,0,0,0,1,0,0
+MKD,Judo,0,0,0,0,1,0,0
+MKD,Karate,0,0,0,0,1,0,0
+MKD,Shooting,0,0,0,0,1,0,0
+MKD,Swimming,0,0,0,0,2,0,0
+MKD,Taekwondo,0,1,0,1,1,0.086140832,0
+MKD,Wrestling,0,0,0,0,1,0,0
+MLI,Athletics,0,0,0,0,2,0,0
+MLI,Swimming,0,0,0,0,1,0,0
+MLI,Taekwondo,0,0,0,0,1,0,0
+MLT,Athletics,0,0,0,0,1,0,0
+MLT,Badminton,0,0,0,0,1,0,0
+MLT,Shooting,0,0,0,0,4,0.003368633,0
+MLT,Swimming,0,0,0,0,5,0.003373572,0
+MLT,Weightlifting,0,0,0,0,1,0,0
+MNE,Athletics,0,0,0,0,4,0.002248224,0
+MNE,Handball,0,0,0,0,16,0.001125348,0
+MNE,Judo,0,0,0,0,1,0,0
+MNE,Sailing,0,0,0,0,1,0,0
+MNE,Shooting,0,0,0,0,1,0,0
+MNE,Swimming,0,0,0,0,2,0,0
+MNE,Water Polo,0,0,0,0,13,0,0
+MON,Athletics,0,0,0,0,1,0,0
+MON,Judo,0,0,0,0,1,0,0
+MON,Rowing,0,0,0,0,1,0,0
+MON,Swimming,0,0,0,0,2,0,0
+MON,Table Tennis,0,0,0,0,1,0,0
+MOZ,Athletics,0,0,0,0,1,0,0
+MOZ,Boxing,0,0,0,0,2,0,0
+MOZ,Canoe Sprint,0,0,0,0,1,0,0
+MOZ,Judo,0,0,0,0,1,0,0
+MOZ,Sailing,0,0,0,0,3,0,0
+MOZ,Swimming,0,0,0,0,3,0.001125348,0
+MRI,Athletics,0,0,0,0,1,0,0
+MRI,Badminton,0,0,0,0,1,0,0
+MRI,Boxing,0,0,0,0,3,0.001125348,0
+MRI,Judo,0,0,0,0,1,0,0
+MRI,Swimming,0,0,0,0,3,0.001125348,0
+MRI,Weightlifting,0,0,0,0,1,0,0
+MTN,Athletics,0,0,0,0,3,0.001125348,0
+MYA,Badminton,0,0,0,0,1,0,0
+MYA,Shooting,0,0,0,0,1,0,0
+NAM,Athletics,0,1,0,1,7,0.089509465,0
+NAM,Boxing,0,0,0,0,2,0.001125348,0
+NAM,Cycling Mountain Bike,0,0,0,0,2,0,0
+NAM,Cycling Road,0,0,0,0,2,0,0
+NAM,Marathon Swimming,0,0,0,0,1,0,0
+NAM,Rowing,0,0,0,0,1,0,0
+NCA,Athletics,0,0,0,0,1,0,0
+NCA,Judo,0,0,0,0,1,0,0
+NCA,Rowing,0,0,0,0,2,0,0
+NCA,Shooting,0,0,0,0,1,0,0
+NCA,Swimming,0,0,0,0,2,0,0
+NCA,Weightlifting,0,0,0,0,1,0,0
+NED,3x3 Basketball,0,0,0,0,4,0,0
+NED,Archery,0,2,0,2,9,0.17457044,0
+NED,Artistic Gymnastics,0,0,0,0,25,0.021292767,0
+NED,Artistic Swimming,0,0,0,0,2,0,0
+NED,Athletics,2,8,3,13,79,1.056480745,0
+NED,Badminton,0,0,0,0,7,0.003368633,0
+NED,Beach Volleyball,0,0,2,2,11,0.16335336,0
+NED,Boxing,0,1,1,2,3,0.123006887,0
+NED,Canoe Slalom,0,0,0,0,1,0,0
+NED,Cycling,2,1,1,4,19,0.326924377,0
+NED,Cycling BMX Racing,0,0,1,1,4,0.079981078,0
+NED,Cycling Mountain Bike,0,0,0,0,3,0,0
+NED,Cycling Road,1,1,1,3,8,0.205309077,0
+NED,Cycling Track,5,0,1,6,15,0.430843106,0
+NED,Diving,0,0,0,0,2,0,0
+NED,Equestrian,0,0,1,1,18,0.08786733,0
+NED,Fencing,0,0,0,0,4,0.003368633,0
+NED,Football,0,0,0,0,22,0,0
+NED,Handball,0,0,0,0,21,0.006752088,0
+NED,Hockey,18,4,0,22,47,1.717914594,0
+NED,Judo,0,0,1,1,22,0.092363778,0
+NED,Marathon Swimming,0,1,0,1,2,0.086140832,0
+NED,Rowing,5,8,6,19,42,1.452007252,0
+NED,Sailing,2,2,4,8,16,0.523128041,0
+NED,Skateboarding,0,0,0,0,2,0,0
+NED,Swimming,3,3,0,6,50,0.447152995,0
+NED,Table Tennis,0,0,0,0,2,0.001125348,0
+NED,Tennis,0,0,0,0,7,0.003368633,0
+NED,Triathlon,0,0,0,0,8,0.004493981,0
+NED,Water Polo,0,0,0,0,13,0,0
+NED,Weightlifting,0,0,0,0,1,0,0
+NEP,Athletics,0,0,0,0,1,0,0
+NEP,Judo,0,0,0,0,1,0,0
+NEP,Shooting,0,0,0,0,1,0,0
+NEP,Swimming,0,0,0,0,3,0.001125348,0
+NGR,Artistic Gymnastics,0,0,0,0,7,0.006715091,0
+NGR,Athletics,0,0,1,1,22,0.08900728,0
+NGR,Badminton,0,0,0,0,3,0,0
+NGR,Basketball,0,0,0,0,24,0,0
+NGR,Canoe Sprint,0,0,0,0,1,0,0
+NGR,Rowing,0,0,0,0,1,0,0
+NGR,Swimming,0,0,0,0,1,0,0
+NGR,Table Tennis,0,0,0,0,10,0.006737266,0
+NGR,Taekwondo,0,0,0,0,1,0,0
+NGR,Wrestling,0,1,0,1,7,0.086170324,0
+NIG,Athletics,0,0,0,0,2,0,0
+NIG,Judo,0,0,0,0,1,0,0
+NIG,Swimming,0,0,0,0,2,0,0
+NIG,Taekwondo,0,0,0,0,2,0,0
+NOR,Artistic Gymnastics,0,0,0,0,5,0.003368633,0
+NOR,Athletics,2,1,0,3,21,0.251823956,0
+NOR,Beach Volleyball,2,0,0,2,2,0.161163914,0
+NOR,Canoe Sprint,0,0,0,0,1,0,0
+NOR,Cycling,0,0,0,0,1,0,0
+NOR,Cycling Mountain Bike,0,0,0,0,1,0,0
+NOR,Cycling Road,0,0,0,0,8,0.002250696,0
+NOR,Cycling Track,0,0,0,0,1,0,0
+NOR,Diving,0,0,0,0,1,0,0
+NOR,Equestrian,0,0,0,0,1,0,0
+NOR,Golf,0,0,0,0,3,0,0
+NOR,Handball,1,0,18,19,34,1.446448835,0
+NOR,Rowing,0,1,2,3,11,0.203034668,0
+NOR,Sailing,0,0,1,1,8,0.079981078,0
+NOR,Shooting,0,0,0,0,14,0.010118244,0
+NOR,Swimming,0,0,0,0,12,0.008975635,0
+NOR,Taekwondo,0,0,0,0,1,0,0
+NOR,Triathlon,1,0,0,1,4,0.080581957,0
+NRU,Athletics,0,0,0,0,1,0,0
+NRU,Weightlifting,0,0,0,0,1,0,0
+NZL,Artistic Gymnastics,0,0,0,0,7,0.006715091,0
+NZL,Athletics,0,0,3,3,19,0.237786676,0
+NZL,Boxing,0,0,1,1,1,0.079981078,0
+NZL,Canoe Slalom,0,0,0,0,3,0.001125348,0
+NZL,Canoe Sprint,4,0,0,4,13,0.312458923,0
+NZL,Cycling,0,2,1,3,12,0.253434986,0
+NZL,Cycling BMX Racing,0,0,0,0,1,0,0
+NZL,Cycling Mountain Bike,0,0,0,0,1,0,0
+NZL,Cycling Road,0,0,0,0,2,0.001125348,0
+NZL,Cycling Track,0,2,0,2,21,0.179071832,0
+NZL,Diving,0,0,0,0,1,0,0
+NZL,Equestrian,0,0,0,0,15,0.007877436,0
+NZL,Football,0,0,0,0,60,0.01798333,0
+NZL,Golf,0,0,1,1,3,0.081106426,0
+NZL,Hockey,0,0,0,0,49,0.014619636,0
+NZL,Karate,0,0,0,0,1,0,0
+NZL,Rowing,14,11,0,25,50,1.987630891,0
+NZL,Rugby Sevens,13,19,0,32,37,2.435862553,0
+NZL,Sailing,2,5,1,8,20,0.55946556,0
+NZL,Shooting,0,1,0,1,4,0.087274768,0
+NZL,Surfing,0,0,0,0,2,0,0
+NZL,Swimming,0,0,0,0,18,0.011243592,0
+NZL,Taekwondo,0,0,0,0,1,0,0
+NZL,Tennis,0,0,2,2,4,0.159979788,0
+NZL,Trampoline Gymnastics,0,0,1,1,2,0.079981078,0
+NZL,Triathlon,0,0,1,1,8,0.083365938,0
+NZL,Weightlifting,0,0,0,0,5,0,0
+OMA,Athletics,0,0,0,0,2,0,0
+OMA,Shooting,0,0,0,0,1,0,0
+OMA,Weightlifting,0,0,0,0,1,0,0
+PAK,Athletics,0,0,0,0,3,0.001125348,0
+PAK,Badminton,0,0,0,0,1,0,0
+PAK,Judo,0,0,0,0,1,0,0
+PAK,Shooting,0,0,0,0,3,0,0
+PAK,Swimming,0,0,0,0,2,0,0
+PAK,Weightlifting,0,0,0,0,1,0,0
+PAN,Athletics,0,0,0,0,4,0,0
+PAN,Boxing,0,0,0,0,2,0.001125348,0
+PAN,Cycling Road,0,0,0,0,1,0,0
+PAN,Judo,0,0,0,0,2,0,0
+PAN,Swimming,0,0,0,0,3,0.001125348,0
+PAR,Athletics,0,0,0,0,2,0,0
+PAR,Cycling Road,0,0,0,0,1,0,0
+PAR,Golf,0,0,0,0,1,0,0
+PAR,Rowing,0,0,0,0,1,0,0
+PAR,Swimming,0,0,0,0,3,0.001125348,0
+PAR,Tennis,0,0,0,0,1,0,0
+PER,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+PER,Athletics,0,0,0,0,8,0,0
+PER,Badminton,0,0,0,0,1,0,0
+PER,Boxing,0,0,0,0,2,0,0
+PER,Cycling Road,0,0,0,0,1,0,0
+PER,Fencing,0,0,0,0,1,0,0
+PER,Judo,0,0,0,0,1,0,0
+PER,Karate,0,0,0,0,1,0,0
+PER,Rowing,0,0,0,0,1,0,0
+PER,Sailing,0,0,0,0,5,0,0
+PER,Shooting,0,0,0,0,4,0.001125348,0
+PER,Skateboarding,0,0,0,0,1,0,0
+PER,Surfing,0,0,0,0,4,0,0
+PER,Swimming,0,0,0,0,4,0.002250696,0
+PER,Tennis,0,0,0,0,1,0,0
+PER,Weightlifting,0,0,0,0,1,0,0
+PER,Wrestling,0,0,0,0,1,0,0
+PHI,Artistic Gymnastics,0,0,0,0,7,0.006715091,0
+PHI,Athletics,0,0,0,0,2,0,0
+PHI,Boxing,0,2,1,3,4,0.252262742,0
+PHI,Golf,0,0,0,0,3,0,0
+PHI,Judo,0,0,0,0,1,0,0
+PHI,Rowing,0,0,0,0,1,0,0
+PHI,Shooting,0,0,0,0,1,0,0
+PHI,Skateboarding,0,0,0,0,1,0,0
+PHI,Swimming,0,0,0,0,4,0.002250696,0
+PHI,Taekwondo,0,0,0,0,1,0,0
+PHI,Weightlifting,1,1,0,2,5,0.125360635,0
+PLE,Athletics,0,0,0,0,1,0,0
+PLE,Judo,0,0,0,0,1,0,0
+PLE,Swimming,0,0,0,0,2,0,0
+PLE,Weightlifting,0,0,0,0,1,0,0
+PLW,Athletics,0,0,0,0,1,0,0
+PLW,Swimming,0,0,0,0,2,0,0
+PNG,Athletics,0,0,0,0,1,0,0
+PNG,Boxing,0,0,0,0,1,0,0
+PNG,Sailing,0,0,0,0,2,0,0
+PNG,Swimming,0,0,0,0,3,0.001125348,0
+PNG,Weightlifting,0,0,0,0,7,0.005611926,0
+POL,3x3 Basketball,0,0,0,0,4,0,0
+POL,Archery,0,0,0,0,4,0.002250696,0
+POL,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+POL,Athletics,14,6,4,24,103,1.779355655,0
+POL,Beach Volleyball,0,0,0,0,5,0.001125348,0
+POL,Boxing,0,0,0,0,4,0,0
+POL,Canoe Slalom,0,0,0,0,4,0,0
+POL,Canoe Sprint,0,2,4,6,15,0.408244258,0
+POL,Cycling,0,0,0,0,12,0.007870025,0
+POL,Cycling Mountain Bike,0,0,0,0,2,0,0
+POL,Cycling Road,0,0,0,0,3,0,0
+POL,Cycling Track,0,0,0,0,21,0.01236894,0
+POL,Equestrian,0,0,0,0,5,0.002250696,0
+POL,Fencing,0,0,0,0,8,0.003376044,0
+POL,Golf,0,0,0,0,1,0,0
+POL,Judo,0,0,0,0,7,0.001125348,0
+POL,Modern Pentathlon,0,0,0,0,4,0.001125348,0
+POL,Rowing,0,4,0,4,23,0.34906472,0
+POL,Sailing,0,1,0,1,11,0.087295672,0
+POL,Shooting,0,0,0,0,10,0.005621796,0
+POL,Skateboarding,0,0,0,0,1,0,0
+POL,Sport Climbing,0,0,0,0,1,0,0
+POL,Swimming,0,0,0,0,38,0.02353366,0
+POL,Table Tennis,0,0,0,0,7,0.005602063,0
+POL,Taekwondo,0,0,0,0,2,0,0
+POL,Tennis,0,0,0,0,13,0.007872492,0
+POL,Volleyball,0,0,0,0,18,0.006747144,0
+POL,Weightlifting,0,0,0,0,4,0.001125348,0
+POL,Wrestling,0,0,1,1,6,0.079981078,0
+POR,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+POR,Athletics,1,1,0,2,27,0.175710751,0
+POR,Canoe Slalom,0,0,0,0,1,0,0
+POR,Canoe Sprint,0,0,1,1,5,0.081106426,0
+POR,Cycling Mountain Bike,0,0,0,0,1,0,0
+POR,Cycling Road,0,0,0,0,4,0.002250696,0
+POR,Cycling Track,0,0,0,0,1,0,0
+POR,Equestrian,0,0,0,0,9,0.004501392,0
+POR,Handball,0,0,0,0,13,0,0
+POR,Judo,0,0,2,2,15,0.162333618,0
+POR,Marathon Swimming,0,0,0,0,2,0,0
+POR,Rowing,0,0,0,0,4,0.002248224,0
+POR,Sailing,0,0,0,0,5,0,0
+POR,Shooting,0,0,0,0,1,0,0
+POR,Skateboarding,0,0,0,0,1,0,0
+POR,Surfing,0,0,0,0,2,0,0
+POR,Swimming,0,0,0,0,12,0.006747144,0
+POR,Table Tennis,0,0,0,0,13,0.008965787,0
+POR,Taekwondo,0,0,0,0,1,0,0
+POR,Tennis,0,0,0,0,4,0.002250696,0
+POR,Trampoline Gymnastics,0,0,0,0,1,0,0
+POR,Triathlon,0,0,0,0,3,0,0
+PUR,Athletics,1,0,0,1,5,0.080591187,0
+PUR,Basketball,0,0,0,0,12,0,0
+PUR,Boxing,0,0,0,0,1,0,0
+PUR,Diving,0,0,0,0,1,0,0
+PUR,Equestrian,0,0,0,0,1,0,0
+PUR,Golf,0,0,0,0,2,0,0
+PUR,Judo,0,0,0,0,2,0,0
+PUR,Rowing,0,0,0,0,1,0,0
+PUR,Sailing,0,0,0,0,3,0,0
+PUR,Shooting,0,0,0,0,1,0,0
+PUR,Skateboarding,0,0,0,0,2,0,0
+PUR,Swimming,0,0,0,0,4,0.002250696,0
+PUR,Table Tennis,0,0,0,0,3,0,0
+PUR,Taekwondo,0,0,0,0,1,0,0
+PUR,Wrestling,0,0,0,0,1,0,0
+QAT,Athletics,1,0,0,1,11,0.08395059,0
+QAT,Beach Volleyball,0,0,2,2,2,0.159962156,0
+QAT,Judo,0,0,0,0,1,0,0
+QAT,Rowing,0,0,0,0,1,0,0
+QAT,Swimming,0,0,0,0,4,0.002248224,0
+QAT,Weightlifting,1,0,0,1,1,0.080581957,0
+ROC,3x3 Basketball,0,8,0,8,8,0.689126656,0
+ROC,Archery,0,4,0,4,9,0.33827644,0
+ROC,Artistic Gymnastics,8,2,4,14,80,0.998685467,0
+ROC,Artistic Swimming,10,0,0,10,10,0.798132886,0
+ROC,Athletics,1,1,0,2,10,0.166722789,0
+ROC,Badminton,0,0,0,0,3,0,0
+ROC,Beach Volleyball,0,2,0,2,6,0.172281664,0
+ROC,Boxing,1,1,4,6,11,0.486647101,0
+ROC,Canoe Slalom,0,0,0,0,4,0.002250696,0
+ROC,Canoe Sprint,0,0,0,0,28,0.014619636,0
+ROC,Cycling BMX Freestyle,0,0,0,0,2,0,0
+ROC,Cycling BMX Racing,0,0,0,0,3,0,0
+ROC,Cycling Mountain Bike,0,0,0,0,2,0,0
+ROC,Cycling Road,0,0,0,0,5,0.001125348,0
+ROC,Cycling Track,0,0,5,5,22,0.406729362,0
+ROC,Diving,0,0,2,2,11,0.162230484,0
+ROC,Equestrian,0,0,0,0,10,0.004501392,0
+ROC,Fencing,9,10,1,20,42,1.546438838,0
+ROC,Handball,0,15,0,15,15,1.29211248,0
+ROC,Judo,0,0,3,3,24,0.248972466,0
+ROC,Marathon Swimming,0,0,0,0,2,0,0
+ROC,Modern Pentathlon,0,0,0,0,3,0,0
+ROC,Rhythmic Gymnastics,0,6,0,6,7,0.516844992,0
+ROC,Rowing,0,3,0,3,10,0.258422496,0
+ROC,Rugby Sevens,0,0,0,0,13,0,0
+ROC,Sailing,0,0,0,0,6,0,0
+ROC,Shooting,2,5,3,10,31,0.730772113,0
+ROC,Sport Climbing,0,0,0,0,3,0,0
+ROC,Swimming,2,7,1,10,84,0.784699601,0
+ROC,Table Tennis,0,0,0,0,3,0,0
+ROC,Taekwondo,2,1,1,4,4,0.327285824,0
+ROC,Tennis,2,3,0,5,18,0.421946136,0
+ROC,Trampoline Gymnastics,0,0,0,0,4,0,0
+ROC,Triathlon,0,0,0,0,8,0.004501392,0
+ROC,Volleyball,0,11,0,11,22,0.947549152,0
+ROC,Water Polo,0,0,0,0,13,0,0
+ROC,Weightlifting,0,0,0,0,2,0,0
+ROC,Wrestling,4,0,4,8,17,0.64225214,0
+ROU,3x3 Basketball,0,0,0,0,4,0,0
+ROU,Archery,0,0,0,0,1,0,0
+ROU,Artistic Gymnastics,0,0,0,0,7,0.004486578,0
+ROU,Athletics,0,0,0,0,9,0,0
+ROU,Boxing,0,0,0,0,2,0,0
+ROU,Canoe Sprint,0,0,0,0,4,0.002250696,0
+ROU,Cycling Mountain Bike,0,0,0,0,1,0,0
+ROU,Cycling Road,0,0,0,0,1,0,0
+ROU,Fencing,0,1,0,1,2,0.086140832,0
+ROU,Football,0,0,0,0,22,0,0
+ROU,Judo,0,0,0,0,3,0,0
+ROU,Rowing,2,6,1,9,40,0.75915364,0
+ROU,Shooting,0,0,0,0,1,0,0
+ROU,Swimming,0,0,0,0,7,0.00449892,0
+ROU,Table Tennis,0,0,0,0,19,0.016813602,0
+ROU,Tennis,0,0,0,0,5,0.002248224,0
+ROU,Triathlon,0,0,0,0,1,0,0
+ROU,Wrestling,0,0,1,1,6,0.079989894,0
+RSA,Artistic Gymnastics,0,0,0,0,10,0.008973156,0
+RSA,Artistic Swimming,0,0,0,0,2,0,0
+RSA,Athletics,0,0,0,0,53,0.02473788,0
+RSA,Cycling,0,0,0,0,5,0.003368633,0
+RSA,Cycling BMX Racing,0,0,0,0,1,0,0
+RSA,Cycling Mountain Bike,0,0,0,0,1,0,0
+RSA,Cycling Road,0,0,0,0,5,0.001125348,0
+RSA,Cycling Track,0,0,0,0,5,0.002250696,0
+RSA,Diving,0,0,0,0,3,0.001125348,0
+RSA,Equestrian,0,0,0,0,1,0,0
+RSA,Football,0,0,0,0,20,0.001125348,0
+RSA,Golf,0,0,0,0,2,0,0
+RSA,Hockey,0,0,0,0,37,0.003376044,0
+RSA,Judo,0,0,0,0,1,0,0
+RSA,Marathon Swimming,0,0,0,0,2,0,0
+RSA,Rowing,0,1,0,1,7,0.087274768,0
+RSA,Rugby Sevens,0,0,1,1,14,0.079989894,0
+RSA,Sailing,0,0,0,0,3,0,0
+RSA,Skateboarding,0,0,0,0,3,0,0
+RSA,Sport Climbing,0,0,0,0,2,0,0
+RSA,Surfing,0,1,0,1,1,0.086140832,0
+RSA,Swimming,1,1,0,2,25,0.134331073,0
+RSA,Triathlon,0,0,1,1,6,0.082238118,0
+RSA,Water Polo,0,0,0,0,26,0,0
+RWA,Athletics,0,0,0,0,2,0,0
+RWA,Cycling Road,0,0,0,0,1,0,0
+RWA,Swimming,0,0,0,0,3,0.001125348,0
+SAM,Athletics,0,0,0,0,2,0.001125348,0
+SAM,Boxing,0,0,0,0,2,0,0
+SAM,Canoe Sprint,0,0,0,0,8,0.005621796,0
+SAM,Judo,0,0,0,0,1,0,0
+SAM,Sailing,0,0,0,0,1,0,0
+SEN,Athletics,0,0,0,0,1,0,0
+SEN,Canoe Slalom,0,0,0,0,1,0,0
+SEN,Fencing,0,0,0,0,1,0,0
+SEN,Judo,0,0,0,0,1,0,0
+SEN,Shooting,0,0,0,0,1,0,0
+SEN,Swimming,0,0,0,0,2,0,0
+SEN,Table Tennis,0,0,0,0,1,0,0
+SEN,Wrestling,0,0,0,0,3,0.002248224,0
+SEY,Athletics,0,0,0,0,2,0.001125348,0
+SEY,Judo,0,0,0,0,1,0,0
+SEY,Sailing,0,0,0,0,2,0.001125348,0
+SEY,Swimming,0,0,0,0,3,0.001125348,0
+SGP,Artistic Gymnastics,0,0,0,0,2,0.001125348,0
+SGP,Athletics,0,0,0,0,1,0,0
+SGP,Badminton,0,0,0,0,2,0,0
+SGP,Diving,0,0,0,0,2,0,0
+SGP,Equestrian,0,0,0,0,1,0,0
+SGP,Fencing,0,0,0,0,2,0,0
+SGP,Marathon Swimming,0,0,0,0,1,0,0
+SGP,Rowing,0,0,0,0,1,0,0
+SGP,Sailing,0,0,0,0,4,0,0
+SGP,Shooting,0,0,0,0,1,0,0
+SGP,Swimming,1,0,0,1,11,0.085252187,0
+SGP,Table Tennis,0,0,0,0,5,0.002250696,0
+SKN,Athletics,0,0,0,0,5,0.003368633,0
+SLE,Athletics,0,0,0,0,1,0,0
+SLE,Judo,0,0,0,0,1,0,0
+SLE,Swimming,0,0,0,0,2,0,0
+SLO,Archery,0,0,0,0,1,0,0
+SLO,Athletics,0,0,0,0,9,0.002248224,0
+SLO,Basketball,0,0,0,0,12,0,0
+SLO,Canoe Slalom,1,0,0,1,4,0.080581957,0
+SLO,Canoe Sprint,0,0,0,0,4,0.002250696,0
+SLO,Cycling,0,0,0,0,1,0,0
+SLO,Cycling Mountain Bike,0,0,0,0,1,0,0
+SLO,Cycling Road,1,0,1,2,5,0.160572265,0
+SLO,Golf,0,0,0,0,1,0,0
+SLO,Judo,1,1,0,2,7,0.126444531,0
+SLO,Marathon Swimming,0,0,0,0,1,0,0
+SLO,Rhythmic Gymnastics,0,0,0,0,1,0,0
+SLO,Sailing,0,0,0,0,6,0.003373572,0
+SLO,Shooting,0,0,0,0,2,0.001125348,0
+SLO,Sport Climbing,1,0,0,1,2,0.080581957,0
+SLO,Swimming,0,0,0,0,8,0.005621796,0
+SLO,Table Tennis,0,0,0,0,5,0.002250696,0
+SLO,Taekwondo,0,0,0,0,1,0,0
+SMR,Judo,0,0,0,0,1,0,0
+SMR,Shooting,0,2,1,3,6,0.209196215,0
+SMR,Swimming,0,0,0,0,2,0.001125348,0
+SOL,Athletics,0,0,0,0,2,0.001125348,0
+SOL,Swimming,0,0,0,0,1,0,0
+SOL,Weightlifting,0,0,0,0,1,0,0
+SOM,Athletics,0,0,0,0,1,0,0
+SRB,3x3 Basketball,0,0,4,4,4,0.319924312,0
+SRB,Athletics,0,0,0,0,5,0,0
+SRB,Basketball,0,0,1,1,13,0.079989894,0
+SRB,Boxing,0,0,0,0,1,0,0
+SRB,Canoe Sprint,0,0,0,0,5,0.002250696,0
+SRB,Judo,0,0,0,0,6,0.001125348,0
+SRB,Karate,1,0,0,1,1,0.080581957,0
+SRB,Rowing,0,0,0,0,3,0,0
+SRB,Shooting,0,1,1,2,25,0.176589152,0
+SRB,Swimming,0,0,0,0,13,0.006742205,0
+SRB,Table Tennis,0,0,0,0,5,0.002250696,0
+SRB,Taekwondo,1,0,1,2,2,0.160563035,0
+SRB,Tennis,0,0,0,0,8,0.003373572,0
+SRB,Volleyball,0,0,12,12,12,0.959772936,0
+SRB,Water Polo,13,0,0,13,13,1.047565441,0
+SRB,Wrestling,0,0,0,0,3,0,0
+SRI,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+SRI,Athletics,0,0,0,0,2,0,0
+SRI,Badminton,0,0,0,0,3,0.002248224,0
+SRI,Equestrian,0,0,0,0,1,0,0
+SRI,Judo,0,0,0,0,2,0.001125348,0
+SRI,Shooting,0,0,0,0,1,0,0
+SRI,Swimming,0,0,0,0,3,0.001125348,0
+SSD,Athletics,0,0,0,0,2,0,0
+STP,Athletics,0,0,0,0,1,0,0
+STP,Canoe Sprint,0,0,0,0,4,0.002250696,0
+SUD,Athletics,0,0,0,0,1,0,0
+SUD,Judo,0,0,0,0,1,0,0
+SUD,Rowing,0,0,0,0,1,0,0
+SUD,Swimming,0,0,0,0,3,0.001125348,0
+SUI,Artistic Gymnastics,0,0,0,0,37,0.03578925,0
+SUI,Athletics,0,0,0,0,40,0.014602375,0
+SUI,Badminton,0,0,0,0,3,0.002248224,0
+SUI,Beach Volleyball,0,0,2,2,7,0.159970972,0
+SUI,Canoe Slalom,0,0,0,0,4,0,0
+SUI,Cycling,1,1,1,3,6,0.160668888,0
+SUI,Cycling BMX Freestyle,0,0,1,1,1,0.079981078,0
+SUI,Cycling BMX Racing,0,0,0,0,2,0,0
+SUI,Cycling Mountain Bike,0,2,0,2,3,0.172281664,0
+SUI,Cycling Road,0,1,0,1,7,0.087274768,0
+SUI,Cycling Track,0,0,0,0,11,0.005621796,0
+SUI,Diving,0,0,0,0,1,0,0
+SUI,Equestrian,0,0,0,0,17,0.009002784,0
+SUI,Fencing,0,0,0,0,12,0.008980559,0
+SUI,Golf,0,0,0,0,3,0.001125348,0
+SUI,Judo,0,0,0,0,2,0,0
+SUI,Karate,0,0,0,0,1,0,0
+SUI,Rowing,0,0,0,0,9,0,0
+SUI,Sailing,0,0,0,0,10,0.004501392,0
+SUI,Shooting,1,0,1,2,6,0.121370714,0
+SUI,Sport Climbing,0,0,0,0,1,0,0
+SUI,Swimming,0,0,2,2,25,0.174649058,0
+SUI,Table Tennis,0,0,0,0,1,0,0
+SUI,Tennis,1,2,0,3,4,0.211468603,0
+SUI,Triathlon,0,0,0,0,10,0.006747144,0
+SUI,Wrestling,0,0,0,0,1,0,0
+SUR,Badminton,0,0,0,0,2,0.001125348,0
+SUR,Cycling Track,0,0,0,0,2,0.001125348,0
+SUR,Swimming,0,0,0,0,2,0.001125348,0
+SVK,Archery,0,0,0,0,1,0,0
+SVK,Artistic Gymnastics,0,0,0,0,5,0.004486578,0
+SVK,Athletics,0,0,0,0,10,0.001125348,0
+SVK,Badminton,0,0,0,0,1,0,0
+SVK,Boxing,0,0,0,0,1,0,0
+SVK,Canoe Slalom,0,1,0,1,4,0.086140832,0
+SVK,Canoe Sprint,0,0,4,4,7,0.319941944,0
+SVK,Cycling Road,0,0,0,0,3,0.001125348,0
+SVK,Golf,0,1,0,1,1,0.086140832,0
+SVK,Shooting,1,0,0,1,13,0.086203113,0
+SVK,Swimming,0,0,0,0,7,0.005611926,0
+SVK,Table Tennis,0,0,0,0,3,0.001125348,0
+SVK,Tennis,0,0,0,0,4,0.001125348,0
+SVK,Wrestling,0,0,0,0,1,0,0
+SWE,Archery,0,0,0,0,3,0.002248224,0
+SWE,Artistic Gymnastics,0,0,0,0,8,0.006715091,0
+SWE,Athletics,2,1,0,3,26,0.252926542,0
+SWE,Badminton,0,0,0,0,1,0,0
+SWE,Boxing,0,0,0,0,2,0,0
+SWE,Canoe Slalom,0,0,0,0,1,0,0
+SWE,Canoe Sprint,0,0,0,0,3,0.001125348,0
+SWE,Cycling,1,0,0,1,1,0.080581957,0
+SWE,Diving,0,0,0,0,1,0,0
+SWE,Equestrian,4,1,0,5,23,0.376086298,0
+SWE,Football,0,26,0,26,28,2.209872857,0
+SWE,Golf,0,0,0,0,5,0.001125348,0
+SWE,Handball,0,0,0,0,37,0.007874964,0
+SWE,Judo,0,0,0,0,7,0.003373572,0
+SWE,Rowing,0,0,0,0,1,0,0
+SWE,Sailing,1,3,0,4,16,0.339128874,0
+SWE,Shooting,0,0,0,0,1,0,0
+SWE,Skateboarding,0,0,0,0,1,0,0
+SWE,Swimming,0,1,0,1,38,0.11417831,0
+SWE,Table Tennis,0,0,0,0,9,0.00449892,0
+SWE,Tennis,0,0,0,0,1,0,0
+SWE,Weightlifting,0,0,0,0,1,0,0
+SWE,Wrestling,0,0,0,0,3,0,0
+SWZ,Athletics,0,0,0,0,3,0.002248224,0
+SWZ,Boxing,0,0,0,0,1,0,0
+SWZ,Swimming,0,0,0,0,2,0,0
+SYR,Athletics,0,0,0,0,1,0,0
+SYR,Equestrian,0,0,0,0,1,0,0
+SYR,Swimming,0,0,0,0,1,0,0
+SYR,Table Tennis,0,0,0,0,1,0,0
+SYR,Triathlon,0,0,0,0,1,0,0
+SYR,Weightlifting,0,0,1,1,2,0.079989894,0
+TAN,Athletics,0,0,0,0,3,0,0
+TGA,Athletics,0,0,0,0,1,0,0
+TGA,Swimming,0,0,0,0,4,0.002248224,0
+TGA,Taekwondo,0,0,0,0,3,0.001125348,0
+TGA,Weightlifting,0,0,0,0,1,0,0
+THA,Athletics,0,0,0,0,3,0.001125348,0
+THA,Badminton,0,0,0,0,10,0.003373572,0
+THA,Boxing,0,0,1,1,4,0.079981078,0
+THA,Canoe Sprint,0,0,0,0,1,0,0
+THA,Cycling,0,0,0,0,2,0.001125348,0
+THA,Cycling BMX Racing,0,0,0,0,1,0,0
+THA,Equestrian,0,0,0,0,6,0.003376044,0
+THA,Golf,0,0,0,0,5,0.001125348,0
+THA,Judo,0,0,0,0,1,0,0
+THA,Rowing,0,0,0,0,2,0,0
+THA,Sailing,0,0,0,0,6,0.003376044,0
+THA,Shooting,0,0,0,0,19,0.014562934,0
+THA,Swimming,0,0,0,0,4,0.002250696,0
+THA,Table Tennis,0,0,0,0,3,0.001125348,0
+THA,Taekwondo,1,0,1,2,3,0.12020334,0
+TJK,Athletics,0,0,0,0,1,0,0
+TJK,Boxing,0,0,0,0,3,0,0
+TJK,Judo,0,0,0,0,5,0.001125348,0
+TJK,Swimming,0,0,0,0,3,0.001125348,0
+TKM,Athletics,0,0,0,0,1,0,0
+TKM,Judo,0,0,0,0,1,0,0
+TKM,Swimming,0,0,0,0,3,0.001125348,0
+TKM,Weightlifting,0,1,0,1,5,0.086140832,0
+TLS,Athletics,0,0,0,0,1,0,0
+TLS,Swimming,0,0,0,0,2,0,0
+TOG,Athletics,0,0,0,0,1,0,0
+TOG,Rowing,0,0,0,0,1,0,0
+TOG,Swimming,0,0,0,0,1,0,0
+TOG,Table Tennis,0,0,0,0,1,0,0
+TPE,Archery,0,3,0,3,14,0.262968084,0
+TPE,Artistic Gymnastics,0,1,0,1,34,0.111061348,0
+TPE,Athletics,0,0,0,0,6,0,0
+TPE,Badminton,2,1,0,3,5,0.247304746,0
+TPE,Boxing,0,0,1,1,4,0.079981078,0
+TPE,Canoe Slalom,0,0,0,0,1,0,0
+TPE,Cycling Road,0,0,0,0,1,0,0
+TPE,Equestrian,0,0,0,0,1,0,0
+TPE,Golf,0,0,1,1,3,0.079981078,0
+TPE,Judo,0,1,0,1,3,0.086140832,0
+TPE,Karate,0,0,1,1,2,0.079981078,0
+TPE,Rowing,0,0,0,0,1,0,0
+TPE,Shooting,0,0,0,0,9,0.004501392,0
+TPE,Swimming,0,0,0,0,5,0.002250696,0
+TPE,Table Tennis,0,0,1,1,9,0.082262608,0
+TPE,Taekwondo,0,0,1,1,4,0.079981078,0
+TPE,Tennis,0,0,0,0,5,0,0
+TPE,Weightlifting,1,0,1,2,7,0.160563035,0
+TTO,Athletics,1,0,2,3,47,0.220554425,0
+TTO,Boxing,0,0,0,0,1,0,0
+TTO,Cycling Road,0,0,0,0,1,0,0
+TTO,Cycling Track,0,0,0,0,4,0.002250696,0
+TTO,Judo,0,0,0,0,1,0,0
+TTO,Rowing,0,0,0,0,1,0,0
+TTO,Swimming,0,0,0,0,6,0.004486578,0
+TUN,Archery,0,0,0,0,4,0.002250696,0
+TUN,Athletics,0,0,0,0,3,0,0
+TUN,Boxing,0,0,0,0,2,0,0
+TUN,Canoe Sprint,0,0,0,0,5,0.001125348,0
+TUN,Fencing,0,0,0,0,14,0.006749616,0
+TUN,Judo,0,0,0,0,3,0,0
+TUN,Marathon Swimming,0,0,0,0,1,0,0
+TUN,Rowing,0,0,0,0,2,0,0
+TUN,Sailing,0,0,0,0,4,0,0
+TUN,Shooting,0,0,0,0,5,0.003373572,0
+TUN,Swimming,1,0,0,1,2,0.080591187,0
+TUN,Table Tennis,0,0,0,0,2,0,0
+TUN,Taekwondo,0,1,0,1,1,0.086140832,0
+TUN,Tennis,0,0,0,0,3,0.002248224,0
+TUN,Volleyball,0,0,0,0,14,0.002250696,0
+TUN,Weightlifting,0,0,0,0,5,0,0
+TUN,Wrestling,0,0,0,0,10,0,0
+TUR,Archery,1,0,0,1,5,0.081739533,0
+TUR,Artistic Gymnastics,0,0,1,1,22,0.097906654,0
+TUR,Athletics,0,0,0,0,29,0.006744677,0
+TUR,Badminton,0,0,0,0,1,0,0
+TUR,Boxing,1,1,0,2,6,0.166722789,0
+TUR,Cycling,0,0,0,0,1,0,0
+TUR,Cycling Road,0,0,0,0,1,0,0
+TUR,Fencing,0,0,0,0,1,0,0
+TUR,Judo,0,0,0,0,6,0,0
+TUR,Karate,0,1,3,4,7,0.326084066,0
+TUR,Modern Pentathlon,0,0,0,0,1,0,0
+TUR,Rowing,0,0,0,0,1,0,0
+TUR,Sailing,0,0,0,0,11,0.003373572,0
+TUR,Shooting,0,0,0,0,5,0.001125348,0
+TUR,Swimming,0,0,0,0,19,0.008992901,0
+TUR,Taekwondo,0,1,3,4,7,0.282984912,0
+TUR,Volleyball,0,0,0,0,12,0,0
+TUR,Weightlifting,0,0,0,0,2,0,0
+TUR,Wrestling,0,0,3,3,10,0.23995205,0
+TUV,Athletics,0,0,0,0,2,0,0
+UAE,Athletics,0,0,0,0,1,0,0
+UAE,Judo,0,0,0,0,2,0.001125348,0
+UAE,Shooting,0,0,0,0,1,0,0
+UAE,Swimming,0,0,0,0,1,0,0
+UGA,Athletics,3,1,1,5,32,0.372199715,0
+UGA,Boxing,0,0,0,0,3,0,0
+UGA,Rowing,0,0,0,0,1,0,0
+UGA,Swimming,0,0,0,0,2,0,0
+UKR,Archery,0,0,0,0,11,0.007862622,0
+UKR,Artistic Gymnastics,0,0,0,0,36,0.034678673,0
+UKR,Artistic Swimming,0,0,10,10,10,0.784259006,0
+UKR,Athletics,0,0,1,1,70,0.109200602,0
+UKR,Badminton,0,0,0,0,3,0.001125348,0
+UKR,Boxing,0,1,0,1,6,0.08726618,0
+UKR,Canoe Slalom,0,0,0,0,2,0.001125348,0
+UKR,Canoe Sprint,0,2,1,3,18,0.215908395,0
+UKR,Cycling,0,0,0,0,2,0.001125348,0
+UKR,Cycling Road,0,0,0,0,2,0,0
+UKR,Cycling Track,0,1,0,1,6,0.088418548,0
+UKR,Diving,0,0,0,0,7,0.001125348,0
+UKR,Equestrian,0,0,0,0,2,0,0
+UKR,Fencing,0,0,1,1,13,0.086727168,0
+UKR,Judo,0,0,1,1,9,0.082231774,0
+UKR,Karate,0,1,1,2,3,0.16612191,0
+UKR,Marathon Swimming,0,0,0,0,1,0,0
+UKR,Modern Pentathlon,0,1,0,1,4,0.086203533,0
+UKR,Rhythmic Gymnastics,0,0,0,0,7,0,0
+UKR,Rowing,0,0,0,0,2,0,0
+UKR,Shooting,1,1,4,6,37,0.418383744,0
+UKR,Swimming,0,1,1,2,16,0.130875515,0
+UKR,Table Tennis,0,0,0,0,5,0.002248224,0
+UKR,Tennis,0,0,1,1,9,0.082297817,0
+UKR,Trampoline Gymnastics,0,0,0,0,1,0,0
+UKR,Triathlon,0,0,0,0,1,0,0
+UKR,Weightlifting,0,0,0,0,3,0.001125348,0
+UKR,Wrestling,1,2,2,5,13,0.372556335,0
+URU,Athletics,0,0,0,0,3,0,0
+URU,Judo,0,0,0,0,1,0,0
+URU,Rowing,0,0,0,0,2,0,0
+URU,Sailing,0,0,0,0,3,0,0
+URU,Swimming,0,0,0,0,2,0,0
+USA,3x3 Basketball,4,0,0,4,4,0.322327828,0
+USA,Archery,0,3,1,4,25,0.284719206,0
+USA,Artistic Gymnastics,2,5,2,9,67,0.653611652,0
+USA,Artistic Swimming,0,0,0,0,2,0,0
+USA,Athletics,31,24,17,72,202,5.071739383,0
+USA,Badminton,0,0,0,0,6,0.002248224,0
+USA,Baseball/Softball,0,38,0,38,38,3.273351616,0
+USA,Basketball,38,0,0,38,38,2.955470981,0
+USA,Beach Volleyball,2,1,1,4,14,0.244619478,0
+USA,Boxing,0,3,1,4,10,0.338403574,0
+USA,Canoe Slalom,0,0,0,0,4,0.001125348,0
+USA,Canoe Sprint,1,0,0,1,1,0.080581957,0
+USA,Cycling,1,1,0,2,4,0.166732019,0
+USA,Cycling BMX Freestyle,0,1,0,1,4,0.086140832,0
+USA,Cycling BMX Racing,0,0,0,0,3,0,0
+USA,Cycling Mountain Bike,0,0,0,0,4,0,0
+USA,Cycling Road,0,0,0,0,10,0.003376044,0
+USA,Cycling Track,0,0,3,3,13,0.243358928,0
+USA,Diving,0,5,1,6,19,0.504428243,0
+USA,Equestrian,0,7,0,7,20,0.605296636,0
+USA,Fencing,3,2,11,16,77,1.144706427,0
+USA,Football,4,0,21,25,31,1.865803374,0
+USA,Golf,2,0,0,2,9,0.162289262,0
+USA,Judo,0,0,0,0,6,0.002250696,0
+USA,Karate,0,0,1,1,3,0.079981078,0
+USA,Marathon Swimming,0,0,0,0,3,0,0
+USA,Modern Pentathlon,0,0,0,0,2,0,0
+USA,Rhythmic Gymnastics,0,0,0,0,8,0.001125348,0
+USA,Rowing,2,1,2,5,52,0.411416622,0
+USA,Rugby Sevens,0,0,0,0,33,0.007877436,0
+USA,Sailing,0,0,0,0,18,0.005624268,0
+USA,Shooting,5,3,2,10,39,0.819352819,0
+USA,Skateboarding,0,0,2,2,12,0.159962156,0
+USA,Sport Climbing,0,1,0,1,4,0.086140832,0
+USA,Surfing,1,0,0,1,4,0.080581957,0
+USA,Swimming,41,29,17,87,135,5.725760305,0
+USA,Table Tennis,0,0,0,0,16,0.011221392,0
+USA,Taekwondo,1,0,0,1,2,0.080581957,0
+USA,Tennis,1,1,0,2,21,0.171355862,0
+USA,Trampoline Gymnastics,0,0,0,0,2,0,0
+USA,Triathlon,0,5,1,6,10,0.467604567,0
+USA,Volleyball,11,1,9,21,31,1.52454524,0
+USA,Water Polo,23,1,0,24,43,1.895615225,0
+USA,Weightlifting,0,1,1,2,8,0.16612191,0
+USA,Wrestling,3,2,4,9,15,0.733951847,0
+UZB,Artistic Gymnastics,0,0,0,0,7,0.006715091,0
+UZB,Athletics,0,0,0,0,9,0.003368633,0
+UZB,Boxing,1,0,0,1,11,0.080581957,0
+UZB,Canoe Sprint,0,0,0,0,4,0.002250696,0
+UZB,Cycling Road,0,0,0,0,2,0,0
+UZB,Fencing,0,0,0,0,3,0,0
+UZB,Judo,0,0,1,1,20,0.090115554,0
+UZB,Modern Pentathlon,0,0,0,0,2,0,0
+UZB,Rhythmic Gymnastics,0,0,0,0,6,0,0
+UZB,Rowing,0,0,0,0,2,0,0
+UZB,Shooting,0,0,0,0,2,0.001125348,0
+UZB,Swimming,0,0,0,0,2,0,0
+UZB,Taekwondo,1,0,0,1,6,0.082832653,0
+UZB,Tennis,0,0,0,0,3,0.002248224,0
+UZB,Weightlifting,1,0,0,1,4,0.080581957,0
+UZB,Wrestling,0,0,2,2,12,0.161127154,0
+VAN,Judo,0,0,0,0,1,0,0
+VAN,Rowing,0,0,0,0,1,0,0
+VAN,Table Tennis,0,0,0,0,3,0.002248224,0
+VEN,Athletics,1,0,0,1,4,0.080581957,0
+VEN,Boxing,0,0,0,0,3,0,0
+VEN,Cycling BMX Freestyle,0,1,0,1,1,0.086140832,0
+VEN,Cycling Road,0,0,0,0,1,0,0
+VEN,Diving,0,0,0,0,1,0,0
+VEN,Fencing,0,0,0,0,2,0,0
+VEN,Golf,0,0,0,0,2,0.001125348,0
+VEN,Judo,0,0,0,0,3,0,0
+VEN,Karate,0,0,0,0,2,0,0
+VEN,Rowing,0,0,0,0,2,0,0
+VEN,Sailing,0,0,0,0,1,0,0
+VEN,Shooting,0,0,0,0,2,0.001125348,0
+VEN,Swimming,0,0,0,0,6,0.003376044,0
+VEN,Volleyball,0,0,0,0,10,0,0
+VEN,Weightlifting,0,2,0,2,4,0.172281664,0
+VIE,Archery,0,0,0,0,4,0.002250696,0
+VIE,Artistic Gymnastics,0,0,0,0,3,0.001125348,0
+VIE,Athletics,0,0,0,0,1,0,0
+VIE,Badminton,0,0,0,0,2,0,0
+VIE,Boxing,0,0,0,0,2,0,0
+VIE,Judo,0,0,0,0,1,0,0
+VIE,Rowing,0,0,0,0,2,0,0
+VIE,Shooting,0,0,0,0,1,0,0
+VIE,Swimming,0,0,0,0,4,0.002250696,0
+VIE,Taekwondo,0,0,0,0,1,0,0
+VIE,Weightlifting,0,0,0,0,2,0,0
+VIN,Athletics,0,0,0,0,1,0,0
+VIN,Swimming,0,0,0,0,2,0,0
+YEM,Athletics,0,0,0,0,1,0,0
+YEM,Judo,0,0,0,0,1,0,0
+YEM,Shooting,0,0,0,0,1,0,0
+YEM,Swimming,0,0,0,0,3,0.001125348,0
+ZAM,Athletics,0,0,0,0,3,0.001125348,0
+ZAM,Boxing,0,0,0,0,3,0,0
+ZAM,Football,0,0,0,0,22,0,0
+ZAM,Judo,0,0,0,0,1,0,0
+ZAM,Swimming,0,0,0,0,2,0,0
+ZIM,Athletics,0,0,0,0,1,0,0
+ZIM,Golf,0,0,0,0,1,0,0
+ZIM,Rowing,0,0,0,0,1,0,0
+ZIM,Swimming,0,0,0,0,2,0,0

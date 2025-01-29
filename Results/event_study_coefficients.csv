@@ -1,0 +1,11 @@
+,Coefficient,Std Error,P-value,CI Lower,CI Upper
+Intercept,4.499205617558832,,,,
+C(Case)[T.CHN_Athletics],-3.009238373575511,,,,
+C(Case)[T.SGP_Table Tennis],-5.999646941137282,,,,
+C(Case)[T.USA_Indoor.1],14.998764293980313,,,,
+Post_neg_2,0.0,-0.0,,0.0,0.0
+Post_neg_1,0.0,-0.0,,0.0,0.0
+Post_0,4.499205617558811,,,,
+Post_1,0.0,-0.0,,0.0,0.0
+Post_2,0.0,-0.0,,0.0,0.0
+Control_Medals,5.8843143792768754e-05,,,,

@@ -1,0 +1,30 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         Treated_Medals   R-squared:                       0.113
+Model:                            OLS   Adj. R-squared:                 -0.182
+Method:                 Least Squares   F-statistic:                     10.15
+Date:                Sun, 26 Jan 2025   Prob (F-statistic):            0.00422
+Time:                        23:25:18   Log-Likelihood:                -19.531
+No. Observations:                   9   AIC:                             45.06
+Df Residuals:                       6   BIC:                             45.65
+Df Model:                           2                                         
+Covariance Type:              cluster                                         
+==================================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          2.8415      1.409      2.016      0.044       0.079       5.604
+Treated            2.8415      1.409      2.016      0.044       0.079       5.604
+Post               0.6375      2.284      0.279      0.780      -3.840       5.115
+TreatedxPost       0.6375      2.284      0.279      0.780      -3.840       5.115
+Control_Medals    -0.1146      0.187     -0.613      0.540      -0.481       0.252
+==============================================================================
+Omnibus:                        9.454   Durbin-Watson:                   1.212
+Prob(Omnibus):                  0.009   Jarque-Bera (JB):                3.698
+Skew:                           1.473   Prob(JB):                        0.157
+Kurtosis:                       4.085   Cond. No.                     3.17e+17
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The smallest eigenvalue is 6.86e-32. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.

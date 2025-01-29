@@ -1,0 +1,928 @@
+JOR increased 800.00%
+Golden_Medals : 0 -> 0
+Silver_Medals : 1 -> 9
+Bronze_Medals : 0 -> 0
+
+MGL increased 400.00%
+Golden_Medals : 0 -> 0
+Silver_Medals : 1 -> 2
+Bronze_Medals : 0 -> 3
+
+SLO increased 333.33%
+Golden_Medals : 2 -> 5
+Silver_Medals : 1 -> 3
+Bronze_Medals : 0 -> 5
+
+QAT increased 300.00%
+Golden_Medals : 0 -> 2
+Silver_Medals : 0 -> 0
+Bronze_Medals : 1 -> 2
+
+INA increased 266.67%
+Golden_Medals : 2 -> 4
+Silver_Medals : 0 -> 2
+Bronze_Medals : 1 -> 5
+
+MAS increased 200.00%
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 3
+Bronze_Medals : 3 -> 6
+
+JAM increased 183.33%
+Golden_Medals : 1 -> 7
+Silver_Medals : 3 -> 6
+Bronze_Medals : 2 -> 4
+
+DOM increased 166.67%
+Golden_Medals : 1 -> 0
+Silver_Medals : 0 -> 4
+Bronze_Medals : 2 -> 4
+
+ISR increased 154.55%
+Golden_Medals : 1 -> 7
+Silver_Medals : 9 -> 6
+Bronze_Medals : 1 -> 15
+
+COL increased 150.00%
+Golden_Medals : 0 -> 0
+Silver_Medals : 3 -> 6
+Bronze_Medals : 1 -> 4
+
+ARG increased 147.37%
+Golden_Medals : 1 -> 5
+Silver_Medals : 2 -> 15
+Bronze_Medals : 16 -> 27
+
+BEL increased 144.44%
+Golden_Medals : 3 -> 11
+Silver_Medals : 1 -> 6
+Bronze_Medals : 5 -> 5
+
+GRE increased 140.00%
+Golden_Medals : 1 -> 5
+Silver_Medals : 1 -> 10
+Bronze_Medals : 8 -> 9
+
+AUT increased 133.33%
+Golden_Medals : 3 -> 2
+Silver_Medals : 0 -> 2
+Bronze_Medals : 3 -> 10
+
+SUI increased 130.00%
+Golden_Medals : 1 -> 4
+Silver_Medals : 2 -> 8
+Bronze_Medals : 7 -> 11
+
+GEO increased 114.29%
+Golden_Medals : 3 -> 5
+Silver_Medals : 3 -> 5
+Bronze_Medals : 1 -> 5
+
+PHI increased 100.00%
+Golden_Medals : 2 -> 2
+Silver_Medals : 0 -> 4
+Bronze_Medals : 2 -> 2
+
+ARM increased 100.00%
+Golden_Medals : 0 -> 1
+Silver_Medals : 3 -> 2
+Bronze_Medals : 1 -> 5
+
+UGA increased 100.00%
+Golden_Medals : 1 -> 2
+Silver_Medals : 1 -> 1
+Bronze_Medals : 0 -> 1
+
+GRN increased 100.00%
+Golden_Medals : 0 -> 2
+Silver_Medals : 0 -> 1
+Bronze_Medals : 2 -> 1
+
+SGP increased 100.00%
+Golden_Medals : 0 -> 1
+Silver_Medals : 0 -> 0
+Bronze_Medals : 1 -> 1
+
+SVK increased 100.00%
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 2
+Bronze_Medals : 1 -> 0
+
+CAN increased 89.47%
+Golden_Medals : 14 -> 40
+Silver_Medals : 29 -> 22
+Bronze_Medals : 14 -> 46
+
+BUL increased 85.71%
+Golden_Medals : 3 -> 8
+Silver_Medals : 1 -> 1
+Bronze_Medals : 3 -> 4
+
+SRB increased 79.31%
+Golden_Medals : 16 -> 15
+Silver_Medals : 1 -> 5
+Bronze_Medals : 12 -> 32
+
+JPN increased 78.05%
+Golden_Medals : 27 -> 46
+Silver_Medals : 31 -> 56
+Bronze_Medals : 24 -> 44
+
+GER increased 74.07%
+Golden_Medals : 21 -> 44
+Silver_Medals : 49 -> 61
+Bronze_Medals : 38 -> 83
+
+HUN increased 73.33%
+Golden_Medals : 9 -> 15
+Silver_Medals : 12 -> 13
+Bronze_Medals : 9 -> 24
+
+TUR increased 72.73%
+Golden_Medals : 0 -> 3
+Silver_Medals : 4 -> 4
+Bronze_Medals : 7 -> 12
+
+AZE increased 71.43%
+Golden_Medals : 2 -> 3
+Silver_Medals : 2 -> 5
+Bronze_Medals : 3 -> 4
+
+THA increased 66.67%
+Golden_Medals : 1 -> 1
+Silver_Medals : 3 -> 4
+Bronze_Medals : 2 -> 5
+
+TUN increased 66.67%
+Golden_Medals : 1 -> 3
+Silver_Medals : 1 -> 2
+Bronze_Medals : 1 -> 0
+
+FIJ increased 64.29%
+Golden_Medals : 0 -> 9
+Silver_Medals : 14 -> 8
+Bronze_Medals : 0 -> 6
+
+UKR increased 62.50%
+Golden_Medals : 6 -> 2
+Silver_Medals : 6 -> 8
+Bronze_Medals : 4 -> 16
+
+TPE increased 62.50%
+Golden_Medals : 3 -> 4
+Silver_Medals : 0 -> 5
+Bronze_Medals : 5 -> 4
+
+KAZ increased 62.50%
+Golden_Medals : 1 -> 0
+Silver_Medals : 3 -> 4
+Bronze_Medals : 4 -> 9
+
+POR increased 60.00%
+Golden_Medals : 2 -> 3
+Silver_Medals : 2 -> 3
+Bronze_Medals : 1 -> 2
+
+IRI increased 58.33%
+Golden_Medals : 3 -> 7
+Silver_Medals : 6 -> 7
+Bronze_Medals : 3 -> 5
+
+CZE increased 55.56%
+Golden_Medals : 4 -> 5
+Silver_Medals : 0 -> 6
+Bronze_Medals : 5 -> 3
+
+NZL increased 54.90%
+Golden_Medals : 26 -> 30
+Silver_Medals : 18 -> 27
+Bronze_Medals : 7 -> 22
+
+KOS increased 50.00%
+Golden_Medals : 0 -> 2
+Silver_Medals : 1 -> 0
+Bronze_Medals : 1 -> 1
+
+ITA increased 48.78%
+Golden_Medals : 31 -> 37
+Silver_Medals : 26 -> 35
+Bronze_Medals : 25 -> 50
+
+KOR increased 46.55%
+Golden_Medals : 21 -> 25
+Silver_Medals : 14 -> 21
+Bronze_Medals : 23 -> 39
+
+GBR increased 45.51%
+Golden_Medals : 39 -> 70
+Silver_Medals : 41 -> 67
+Bronze_Medals : 76 -> 90
+
+IRL increased 42.86%
+Golden_Medals : 4 -> 3
+Silver_Medals : 0 -> 2
+Bronze_Medals : 3 -> 5
+
+LTU increased 42.86%
+Golden_Medals : 0 -> 0
+Silver_Medals : 2 -> 2
+Bronze_Medals : 5 -> 8
+
+NOR increased 39.13%
+Golden_Medals : 18 -> 13
+Silver_Medals : 1 -> 4
+Bronze_Medals : 4 -> 15
+
+CUB increased 33.33%
+Golden_Medals : 2 -> 8
+Silver_Medals : 1 -> 2
+Bronze_Medals : 6 -> 2
+
+BRA increased 32.84%
+Golden_Medals : 4 -> 33
+Silver_Medals : 28 -> 24
+Bronze_Medals : 35 -> 32
+
+DEN increased 26.83%
+Golden_Medals : 17 -> 15
+Silver_Medals : 5 -> 20
+Bronze_Medals : 19 -> 17
+
+HKG increased 25.00%
+Golden_Medals : 2 -> 1
+Silver_Medals : 0 -> 1
+Bronze_Medals : 2 -> 3
+
+ETH increased 25.00%
+Golden_Medals : 1 -> 2
+Silver_Medals : 3 -> 2
+Bronze_Medals : 0 -> 1
+
+POL increased 21.43%
+Golden_Medals : 1 -> 8
+Silver_Medals : 16 -> 10
+Bronze_Medals : 11 -> 16
+
+USA increased 17.76%
+Golden_Medals : 131 -> 178
+Silver_Medals : 96 -> 102
+Bronze_Medals : 94 -> 98
+
+AUS increased 17.36%
+Golden_Medals : 33 -> 47
+Silver_Medals : 44 -> 43
+Bronze_Medals : 44 -> 52
+
+UZB increased 15.38%
+Golden_Medals : 8 -> 10
+Silver_Medals : 2 -> 0
+Bronze_Medals : 3 -> 5
+
+FRA increased 14.97%
+Golden_Medals : 53 -> 90
+Silver_Medals : 95 -> 89
+Bronze_Medals : 39 -> 36
+
+CHN increased 10.12%
+Golden_Medals : 71 -> 71
+Silver_Medals : 57 -> 68
+Bronze_Medals : 40 -> 46
+
+IND increased 4.55%
+Golden_Medals : 0 -> 1
+Silver_Medals : 1 -> 2
+Bronze_Medals : 21 -> 20
+
+ESP increased 1.20%
+Golden_Medals : 40 -> 22
+Silver_Medals : 7 -> 30
+Bronze_Medals : 36 -> 32
+
+CHI decreased 100.00%
+Golden_Medals : 1 -> 0
+Silver_Medals : 1 -> 0
+Bronze_Medals : 0 -> 0
+
+GUA decreased 100.00%
+Golden_Medals : 1 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 1 -> 0
+
+DMA decreased 100.00%
+Golden_Medals : 1 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+PAK decreased 100.00%
+Golden_Medals : 1 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+PAN decreased 100.00%
+Golden_Medals : 0 -> 0
+Silver_Medals : 1 -> 0
+Bronze_Medals : 0 -> 0
+
+PER decreased 100.00%
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 1 -> 0
+
+TJK decreased 66.67%
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 3 -> 1
+
+MDA decreased 50.00%
+Golden_Medals : 0 -> 0
+Silver_Medals : 1 -> 0
+Bronze_Medals : 3 -> 2
+
+MEX decreased 37.50%
+Golden_Medals : 0 -> 0
+Silver_Medals : 4 -> 1
+Bronze_Medals : 4 -> 4
+
+AIN decreased 33.33%
+Golden_Medals : 1 -> 0
+Silver_Medals : 4 -> 4
+Bronze_Medals : 1 -> 0
+
+KGZ decreased 33.33%
+Golden_Medals : 0 -> 0
+Silver_Medals : 2 -> 3
+Bronze_Medals : 4 -> 1
+
+ROU decreased 28.57%
+Golden_Medals : 12 -> 7
+Silver_Medals : 7 -> 6
+Bronze_Medals : 2 -> 2
+
+BRN decreased 25.00%
+Golden_Medals : 2 -> 2
+Silver_Medals : 1 -> 1
+Bronze_Medals : 1 -> 0
+
+ECU decreased 16.67%
+Golden_Medals : 1 -> 3
+Silver_Medals : 3 -> 2
+Bronze_Medals : 2 -> 0
+
+MAR decreased 15.00%
+Golden_Medals : 1 -> 2
+Silver_Medals : 0 -> 0
+Bronze_Medals : 19 -> 15
+
+BOT decreased 14.29%
+Golden_Medals : 1 -> 2
+Silver_Medals : 6 -> 2
+Bronze_Medals : 0 -> 2
+
+NED decreased 9.32%
+Golden_Medals : 67 -> 51
+Silver_Medals : 25 -> 26
+Bronze_Medals : 26 -> 30
+
+KEN decreased 9.09%
+Golden_Medals : 4 -> 4
+Silver_Medals : 2 -> 3
+Bronze_Medals : 5 -> 3
+
+RSA decreased 4.76%
+Golden_Medals : 1 -> 3
+Silver_Medals : 6 -> 6
+Bronze_Medals : 14 -> 11
+
+CRO no change (0.00%)
+Golden_Medals : 3 -> 6
+Silver_Medals : 14 -> 9
+Bronze_Medals : 3 -> 5
+
+SWE no change (0.00%)
+Golden_Medals : 5 -> 4
+Silver_Medals : 7 -> 11
+Bronze_Medals : 4 -> 1
+
+PRK no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 4 -> 3
+Bronze_Medals : 4 -> 5
+
+ALG no change (0.00%)
+Golden_Medals : 2 -> 2
+Silver_Medals : 0 -> 0
+Bronze_Medals : 1 -> 1
+
+EGY no change (0.00%)
+Golden_Medals : 1 -> 0
+Silver_Medals : 1 -> 2
+Bronze_Medals : 1 -> 1
+
+LCA no change (0.00%)
+Golden_Medals : 1 -> 1
+Silver_Medals : 1 -> 1
+Bronze_Medals : 0 -> 0
+
+ALB no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 2 -> 2
+
+PUR no change (0.00%)
+Golden_Medals : 0 -> 1
+Silver_Medals : 0 -> 0
+Bronze_Medals : 2 -> 1
+
+CYP no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 1 -> 1
+Bronze_Medals : 0 -> 0
+
+CIV no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 1 -> 1
+
+CPV no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 1 -> 1
+
+EOR no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 1 -> 1
+
+ZAM no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 1 -> 1
+
+AFG no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+AND no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+ARU no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+ASA no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+BAN no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+BAR no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+BEN no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+BER no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+BHU no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+BIH no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+BIZ no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+BRU no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+CAF no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+CAM no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+CAY no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+CGO no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+CHA no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+CMR no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+COD no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+COK no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+COM no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+CRC no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+DJI no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+ERI no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+FSM no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+GAB no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+GAM no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+GBS no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+GEQ no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+GHA no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+GUI no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+GUM no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+GUY no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+HAI no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+IRQ no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+ISL no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+ISV no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+IVB no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+KIR no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+KSA no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+KUW no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+LAO no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+LBA no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+LBN no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+LBR no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+LES no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+LUX no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+MAW no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+MDV no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+MHL no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+MNE no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+MON no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+MOZ no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+MRI no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+MTN no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+NEP no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+NIG no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+NRU no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+OMA no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+PAR no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+PLE no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+PLW no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+PNG no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+RWA no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+SAM no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+SEN no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+SEY no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+SKN no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+SOL no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+SOM no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+SRI no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+SSD no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+STP no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+SUD no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+SUR no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+SWZ no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+TAN no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+TGA no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+TLS no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+TOG no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+TUV no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+UAE no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+URU no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+VAN no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+VIE no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+VIN no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+YEM no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+ZIM no change (0.00%)
+Golden_Medals : 0 -> 0
+Silver_Medals : 0 -> 0
+Bronze_Medals : 0 -> 0
+
+
+Countries that gained medals from zero:
+ANG gained 1 medals
+ANT gained 1 medals
+BAH gained 2 medals
+BDI gained 1 medals
+BOL gained 1 medals
+BUR gained 1 medals
+ESA gained 1 medals
+EST gained 2 medals
+FIN gained 1 medals
+HON gained 1 medals
+LAT gained 4 medals
+LIE gained 1 medals
+MAD gained 1 medals
+MKD gained 1 medals
+MLI gained 1 medals
+MLT gained 1 medals
+MYA gained 1 medals
+NAM gained 1 medals
+NCA gained 1 medals
+NGR gained 2 medals
+SLE gained 1 medals
+SMR gained 2 medals
+SYR gained 2 medals
+TKM gained 1 medals
+TTO gained 2 medals
+VEN gained 2 medals

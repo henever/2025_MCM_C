@@ -1,0 +1,30 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           Total_Medals   R-squared:                       0.328
+Model:                            OLS   Adj. R-squared:                  0.328
+Method:                 Least Squares   F-statistic:                     3194.
+Date:                Mon, 27 Jan 2025   Prob (F-statistic):               0.00
+Time:                        16:53:51   Log-Likelihood:                -72127.
+No. Observations:               26165   AIC:                         1.443e+05
+Df Residuals:                   26160   BIC:                         1.443e+05
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+Intercept                -0.2432      0.030     -7.976      0.000      -0.303      -0.183
+Athletes                  0.1729      0.002    106.640      0.000       0.170       0.176
+Host                      2.0691      0.145     14.314      0.000       1.786       2.352
+NewEventParticipation    -0.0103      0.065     -0.159      0.874      -0.138       0.117
+Coach_Introduced          4.1778      1.441      2.899      0.004       1.353       7.002
+==============================================================================
+Omnibus:                    22125.051   Durbin-Watson:                   1.790
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          1724289.962
+Skew:                           3.629   Prob(JB):                         0.00
+Kurtosis:                      42.102   Cond. No.                     1.09e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.09e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

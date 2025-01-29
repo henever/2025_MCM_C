@@ -1,0 +1,33 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         Treated_Medals   R-squared:                       0.879
+Model:                            OLS   Adj. R-squared:                  0.847
+Method:                 Least Squares   F-statistic:                     77.43
+Date:                Mon, 27 Jan 2025   Prob (F-statistic):           2.55e-07
+Time:                        00:59:52   Log-Likelihood:                -87.315
+No. Observations:                  35   AIC:                             190.6
+Df Residuals:                      27   BIC:                             203.1
+Df Model:                           7                                         
+Covariance Type:              cluster                                         
+===============================================================================================
+                                  coef    std err          z      P>|z|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------
+Intercept                       3.2094      1.214      2.644      0.008       0.830       5.589
+C(Case)[T.CHN_Athletics]       -1.3449     10.345     -0.130      0.897     -21.620      18.930
+C(Case)[T.SGP_Table Tennis]     0.0352      0.838      0.042      0.966      -1.607       1.678
+C(Case)[T.USA_Indoor.1]        17.8386      3.026      5.895      0.000      11.908      23.769
+Post                            0.8439      1.702      0.496      0.620      -2.492       4.179
+Time_Trend                     -0.0281      0.070     -0.403      0.687      -0.165       0.109
+Post_x_Trend                   -0.1057      0.210     -0.503      0.615      -0.518       0.306
+Control_Medals                  0.0089      0.056      0.160      0.873      -0.100       0.118
+==============================================================================
+Omnibus:                       20.779   Durbin-Watson:                   2.412
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               33.844
+Skew:                          -1.493   Prob(JB):                     4.48e-08
+Kurtosis:                       6.781   Cond. No.                     1.79e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The condition number is large, 1.79e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
